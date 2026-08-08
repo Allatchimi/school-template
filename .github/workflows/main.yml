@@ -1,0 +1,63 @@
+name: School admin docker image CI
+run-name: ${{ github.actor }} is building School admin docker image
+
+on:
+  push:
+    branches: [main, staging, dev]
+  workflow_dispatch:
+
+jobs:
+  docker-build-image:
+    runs-on: ubuntu-latest
+
+    env:
+      CONTAINER_PROVIDER: ghcr.io
+      CONTAINER_ORG: Allatchimi
+      CONTAINER_REPO: school-template
+      CONTAINER_IMAGE: school-admin
+      CONTAINER_IMAGE_TAG: ${{ github.run_number }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4.1.7
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Set env
+        run: |
+          if [ "${{ github.ref_name }}" = "main" ]; then
+            echo "CONTAINER_IMAGE=school-admin" >> $GITHUB_ENV
+            echo "${{ secrets.ADMIN_ENV_PROD }}" > .env
+          elif [ "${{ github.ref_name }}" = "staging" ]; then
+            echo "CONTAINER_IMAGE=school-admin-staging" >> $GITHUB_ENV
+            echo "${{ secrets.ADMIN_ENV_STAGING }}" > .env
+          else
+            echo "CONTAINER_IMAGE=school-admin-dev" >> $GITHUB_ENV
+            echo "${{ secrets.ADMIN_ENV_DEV }}" > .env
+          fi
+
+      - name: Build Docker image
+        run: |
+          docker build ./ \
+            --file ./docker/app/Dockerfile \
+            --tag ${{ env.CONTAINER_PROVIDER }}/${{ env.CONTAINER_ORG }}/${{ env.CONTAINER_REPO }}/${{ env.CONTAINER_IMAGE }}:${{ env.CONTAINER_IMAGE_TAG }} \
+            --tag ${{ env.CONTAINER_PROVIDER }}/${{ env.CONTAINER_ORG }}/${{ env.CONTAINER_REPO }}/${{ env.CONTAINER_IMAGE }}:latest
+
+      - name: Run Trivy vulnerability scanner
+        uses: aquasecurity/trivy-action@master
+        continue-on-error: true
+        with:
+          image-ref: "${{ env.CONTAINER_PROVIDER }}/${{ env.CONTAINER_ORG }}/${{ env.CONTAINER_REPO }}/${{ env.CONTAINER_IMAGE }}:${{ env.CONTAINER_IMAGE_TAG }}"
+          format: "table"
+          exit-code: "1"
+          ignore-unfixed: true
+          vuln-type: "os,library"
+          severity: "MEDIUM,HIGH,CRITICAL"
+
+      - name: Login to GitHub Docker Registry
+        run: echo ${{ secrets.GHCR_PASSWORD }} | docker login ${{ env.CONTAINER_PROVIDER }} -u ${{ secrets.GHCR_USERNAME }} --password-stdin
+
+      - name: Push image to GitHub Docker Registry
+        run: |
+          docker push ${{ env.CONTAINER_PROVIDER }}/${{ env.CONTAINER_ORG }}/${{ env.CONTAINER_REPO }}/${{ env.CONTAINER_IMAGE }}:${{ env.CONTAINER_IMAGE_TAG }}
+          docker push ${{ env.CONTAINER_PROVIDER }}/${{ env.CONTAINER_ORG }}/${{ env.CONTAINER_REPO }}/${{ env.CONTAINER_IMAGE }}:latest

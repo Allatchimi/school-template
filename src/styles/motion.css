@@ -1,0 +1,131 @@
+:root {
+  --anim-duration: 250ms;
+  --anim-ease: ease-in-out;
+  --anim-delay: 0ms;
+}
+
+/* Avoid motion jank */
+.motion-fade-slide-from-bottom.enter,
+.motion-fade-slide-from-bottom.exit,
+.motion-fade-slide-from-top.enter,
+.motion-fade-slide-from-top.exit,
+.motion-fade-slide-from-left.enter,
+.motion-fade-slide-from-left.exit {
+  animation-fill-mode: both;
+  animation-delay: var(--anim-delay);
+}
+
+
+/* Accessibility */
+@media (prefers-reduced-motion: reduce) {
+  .motion-fade-slide-from-bottom.enter,
+  .motion-fade-slide-from-bottom.exit,
+  .motion-fade-slide-from-top.enter,
+  .motion-fade-slide-from-top.exit,
+  .motion-fade-slide-from-left.enter,
+  .motion-fade-slide-from-left.exit {
+    animation-duration: 1ms;
+  }
+}
+
+/*
+  fade slide from bottom
+*/
+.motion-fade-slide-from-bottom {
+  width: 100%;
+  will-change: transform, opacity;
+}
+.motion-fade-slide-from-bottom.enter {
+  animation: fadeSlideIn var(--anim-duration) var(--anim-ease) forwards;
+}
+@keyframes fadeSlideIn {
+  from {
+    transform: translateY(30px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.motion-fade-slide-from-bottom.exit {
+  animation: fadeSlideOut var(--anim-duration) var(--anim-ease) forwards;
+}
+@keyframes fadeSlideOut {
+  from {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  to {
+    transform: translateY(10px);
+    opacity: 0;
+  }
+}
+
+/*
+  fade slide from top
+*/
+.motion-fade-slide-from-top {
+  width: 100%;
+  will-change: transform, opacity;
+}
+.motion-fade-slide-from-top.enter {
+  animation: fadeSlideInFromTop var(--anim-duration) var(--anim-ease) forwards;
+}
+@keyframes fadeSlideInFromTop {
+  from {
+    transform: translateY(-30px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.motion-fade-slide-from-top.exit {
+  animation: fadeSlideOutFromTop var(--anim-duration) var(--anim-ease) forwards;
+}
+@keyframes fadeSlideOutFromTop {
+  from {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  to {
+    transform: translateY(-10px);
+    opacity: 0;
+  }
+}
+
+/*
+  fade slide from left
+*/
+.motion-fade-slide-from-left {
+  width: 100%;
+  will-change: transform, opacity;
+}
+.motion-fade-slide-from-left.enter {
+  animation: fadeSlideInFromLeft var(--anim-duration) var(--anim-ease) forwards;
+}
+@keyframes fadeSlideInFromLeft {
+  from {
+    transform: translateX(-30px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+.motion-fade-slide-from-left.exit {
+  animation: fadeSlideOutFromLeft var(--anim-duration) var(--anim-ease) forwards;
+}
+@keyframes fadeSlideOutFromLeft {
+  from {
+    transform: translateX(0);
+    opacity: 1;
+  }
+  to {
+    transform: translateX(-10px);
+    opacity: 0;
+  }
+}

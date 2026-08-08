@@ -1,0 +1,1475 @@
+{
+  "Words": {
+    "notifications": "Notifications",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "logout": "Logout",
+    "login": "Login",
+    "register": "Register",
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "settings": "Settings",
+    "information": "Information",
+    "configuration": "Configuration",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "faq": "FAQ",
+    "help": "Help",
+    "language": "Language",
+    "refresh": "Refresh",
+    "course": "Course",
+    "credit": "Credit",
+    "coefficient": "Coefficient",
+    "preEnroll": "Pre-enroll",
+    "schedule": "Schedule",
+    "enroll": "Enroll",
+    "closed": "Closed",
+    "add": "Add",
+    "resolve": "Resolve",
+    "answer": "Answer",
+    "solution": "Solution",
+    "meeting": "Meeting",
+    "online": "Online",
+    "offline": "Offline",
+    "ended": "Ended",
+    "started": "Started",
+    "upcoming": "Upcoming",
+    "starts": "Starts",
+    "Ends": "Ends",
+    "percentage": "Percentage",
+    "score": "Score",
+    "locationDetails": "Location details",
+    "requirements": "Requirements",
+    "allowedItems": "Allowed items",
+    "videosLinks": "Videos links",
+    "videosLink": "Videos link",
+    "url": "URL",
+    "id": "ID",
+    "uid": "UID",
+    "name": "Name",
+    "description": "Description",
+    "message": "Message",
+    "audience": "Audience",
+    "createdAt": "Created at",
+    "updatedAt": "Updated at",
+    "status": "Status",
+    "school": "School",
+    "subject": "Subject",
+    "unit": "Unit",
+    "class": "Class",
+    "levelDomain": "Level domain",
+    "classLevelDomain": "Class/level domain",
+    "subjectUnit": "Subject/unit",
+    "specialty": "Specialty",
+    "section": "Section",
+    "sequence": "Sequence",
+    "quarter": "Quarter",
+    "semester": "Semester",
+    "sequenceSemester": "Sequence/semester",
+    "year": "Year",
+    "month": "Month",
+    "day": "Day",
+    "hour": "Hour",
+    "minute": "Minute",
+    "second": "Second",
+    "week": "Week",
+    "level": "Level",
+    "domain": "Domain",
+    "department": "Department",
+    "faculty": "Faculty",
+    "email": "Email",
+    "autoGenerateEmail": "Auto generate email",
+    "emailCount": "Email {count}",
+    "table": "Table",
+    "yes": "Yes",
+    "no": "No",
+    "selection": "Selection",
+    "file": "File",
+    "strategy": "Strategy",
+    "create": "Create",
+    "read": "Read",
+    "update": "Update",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "retry": "Retry",
+    "send": "Send",
+    "feature": "Feature",
+    "phoneNumber": "Phone number",
+    "phoneNumberCount": "Phone number {count}",
+    "loginMethod": "Login method",
+    "provider": "Provider",
+    "providerUserID": "Provider user ID",
+    "isEmailVerified": "Is email verified",
+    "activatedAt": "Activated at",
+    "gender": "Gender",
+    "username": "Username",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "birthday": "Birthday",
+    "birthLocation": "Birth location",
+    "address": "Address",
+    "image": "Image",
+    "imageCount": "Image {count}",
+    "showcaseImages": "Showcase images",
+    "emailEnabled": "Email enabled",
+    "authenticatorEnabled": "Authenticator enabled",
+    "loading": "Loading",
+    "welcome": "Welcome",
+    "show": "Show",
+    "hide": "Hide",
+    "privacyPolicy": "Privacy policy",
+    "contactUs": "Contact us",
+    "clear": "Clear",
+    "resultsFor": "Results for",
+    "filter": "Filter",
+    "sort": "Sort",
+    "export": "Export",
+    "search": "Search",
+    "title": "Title",
+    "program": "Program",
+    "fees": "Fees",
+    "isValid": "Is valid",
+    "classDescription": "Class description",
+    "subjectDescription": "Subject description",
+    "startDate": "Start date",
+    "endDate": "End date",
+    "document": "Document",
+    "documentCount": "Document {count}",
+    "origin": "Origin",
+    "type": "Type",
+    "location": "Location",
+    "locationType": "Location type",
+    "deploymentRequest": "Deployment request",
+    "deploymentStatus": "Deployment status",
+    "deploymentFeedback": "Deployment feedback",
+    "deploymentExtra": "Deployment extra",
+    "deploymentVersion": "Deployment version",
+    "favicon": "Favicon",
+    "logo": "Logo",
+    "logoWhite": "Logo white",
+    "currency": "Currency",
+    "paymentCount": "Payment count",
+    "fullName": "Full name",
+    "motto": "Motto",
+    "founder": "Founder",
+    "foundedAt": "Founded at",
+    "locationLongitude": "Location longitude",
+    "locationLatitude": "Location latitude",
+    "socialMediaTelegram": "Social media Telegram",
+    "socialMediaWhasapp": "Social media WhatsApp",
+    "socialMediaYoutube": "Social media Youtube",
+    "socialMediaTwitter": "Social media Twitter",
+    "socialMediaFacebook": "Social media Facebook",
+    "websiteDomainName": "Website domain name",
+    "userEmailDomainName": "User email domain name",
+    "supportEmail": "Support email",
+    "googleWorkspaceCredentials": "Google workspace credentials",
+    "googleWorkspaceUserEmailDomain": "Google workspace user email domain name",
+    "smsUserID": "SMS user ID",
+    "whatsappToken": "WhatsApp token",
+    "whatsappPhoneID": "WhatsApp phone ID",
+    "telegramBotToken": "Telegram bot token",
+    "websiteTitle": "Website title",
+    "websiteDescription": "Website description",
+    "colorPrimary": "Color primary",
+    "colorPrimaryBg": "Color primary background",
+    "colorPrimaryBgHover": "Color primary background hover",
+    "isCommon": "Is common",
+    "dayOfTheWeek": "Day of the week",
+    "repeatCount": "Repeat count",
+    "repeatType": "Repeat type",
+    "startTime": "Start time",
+    "endTime": "End time",
+    "startCountDate": "Start count date",
+    "statusFeedback": "Status feedback",
+    "periodName": "Period name",
+    "periodType": "Period type",
+    "periodValue": "Period value",
+    "minimum": "Minimum",
+    "maximum": "Maximum",
+    "includeMinimum": "Include minimum",
+    "includeMaximum": "Include maximum",
+    "coefficientCredit": "Coefficient/credit",
+    "notation": "Notation",
+    "isRetry": "Is retry",
+    "retryCount": "Retry count",
+    "retryDetails": "Retry details",
+    "newScore": "New score",
+    "notationAverage": "Notation average",
+    "notationReport": "Notation report",
+    "minimumRequiredScoreToPromote": "Minimum required score to promote",
+    "totalQuestions": "Total questions",
+    "totalStudents": "Total students",
+    "number": "Number",
+    "ranking": "Ranking",
+    "administrator": "Administrator",
+    "director": "Director",
+    "teacher": "Teacher",
+    "student": "Student",
+    "studentEnroll": "Student enrollment",
+    "parent": "Parent",
+    "question": "Question",
+    "questions": "Questions",
+    "answers": "Answers",
+    "option": "Option",
+    "options": "Options",
+    "amount": "Amount",
+    "date": "Date",
+    "method": "Method",
+    "male": "Male",
+    "female": "Female",
+    "other": "Other",
+    "typeDescription": "Type description",
+    "content": "Content",
+    "documents": "Documents",
+    "videos": "Videos",
+    "website": "Website",
+    "role": "Role",
+    "edit": "Edit",
+    "mfaWithEmail": "2FA with email",
+    "mfaWithAuthenticator": "2FA with authenticator",
+    "whatsappPhoneNumber": "Whatsapp phone number",
+    "telegramChatID": "Telegram chat ID",
+    "avatarImage": "Avatar Image",
+    "accept": "Accept",
+    "acceptPolicy": "Accept policy",
+    "policy": "Policy",
+    "password": "Password",
+    "currentPassword": "Current password",
+    "newPassword": "New password",
+    "confirmPassword": "Confirm password",
+    "invalid": "Invalid",
+    "invalidLabel": "Invalid {label}",
+    "thisLabel": "This {label}",
+    "deployment": "Deployment",
+    "topic": "Topic",
+    "every": "Every",
+    "repeat": "Repeat",
+    "times": "Times",
+    "until": "Until",
+    "selectedItems": "Selected items",
+    "page": "Page",
+    "import": "Import",
+    "download": "Download",
+    "upload": "Upload",
+    "isActivated": "Is activated",
+    "user": "User",
+    "time": "Time",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "exam": "Exam",
+    "examType": "Exam type",
+    "request": "Request",
+    "grade": "Grade",
+    "isSuccessful": "Is successful",
+    "rank": "Rank",
+    "isRunning": "Is running",
+    "apiRoomID": "API Room ID",
+    "paymentMethod": "Payment method",
+    "value": "Value",
+    "color": "Color",
+    "showMore": "Show more",
+    "showLess": "Show less",
+    "comments": "Comments",
+    "comment": "Comment",
+    "unknownUser": "Unknown user",
+    "start": "Start",
+    "end": "End",
+    "statistcs": "Statistcs",
+    "highschool": "Highschool",
+    "university": "University",
+    "entries": "Entries",
+    "types": "Types",
+    "tables": "Tables",
+    "quarters": "Quarters",
+    "sequences": "Sequences",
+    "sections": "Sections",
+    "specialties": "Specialties",
+    "classes": "Classes",
+    "subjects": "Subjects",
+    "classSubjects": "Class subjects",
+    "semesters": "Semesters",
+    "faculties": "Faculties",
+    "departments": "Departments",
+    "domains": "Domains",
+    "levels": "Levels",
+    "levelDomains": "Level domains",
+    "units": "Units",
+    "schools": "Schools",
+    "users": "Users",
+    "roles": "Roles",
+    "permissions": "Permissions",
+    "directors": "Directors",
+    "managers": "Managers",
+    "teachers": "Teachers",
+    "students": "Students",
+    "parents": "Parents",
+    "years": "Years",
+    "teachings": "Teachings",
+    "schedules": "Schedules",
+    "weeklyView": "Weekly view",
+    "courses": "Courses",
+    "meetings": "Meetings",
+    "quizzes": "Quizzes",
+    "exams": "Exams",
+    "results": "Results",
+    "reports": "Reports",
+    "requests": "Requests",
+    "payments": "Payments",
+    "grades": "Grades",
+    "correspondences": "Correspondences",
+    "averages": "Averages",
+    "preEnrolls": "Pre-enrolls",
+    "enrolls": "Enrolls",
+    "parentings": "Parentings",
+    "others": "Others",
+    "communications": "Communications",
+    "helpCenter": "Help center",
+    "communication": "Communication",
+    "permission": "Permission",
+    "parentStudent": "Parent student",
+    "reportAverage": "Report average",
+    "reportTable": "Report table",
+    "reportConfig": "Report configuration",
+    "reportEntry": "Report entry",
+    "reportCorrespondence": "Report correspondence",
+    "reportGrade": "Report grade",
+    "teaching": "Teaching",
+    "resultTable": "Result table",
+    "resultEntry": "Result entry",
+    "default": "Default",
+    "activate": "Activate",
+    "backToHome": "Back to home",
+    "stayConnected": "Stay connected",
+    "getStarted": "Get started",
+    "features": "Feature",
+    "statistics": "Statistics",
+    "invalidatedDate": "Invalidated date",
+    "ascending": "Ascending",
+    "descending": "Descending",
+    "close": "Close",
+    "total": "Total",
+    "actions": "Actions",
+    "quizAnswer": "Quiz answer",
+    "quizQuestion": "Quiz question",
+    "quiz": "Quiz",
+    "browse": "Browse",
+    "joinMeeting": "Join meeting"
+  },
+  "Enums": {
+    "others": {
+      "communication": {
+        "audience": {
+          "school": "School",
+          "director": "Director",
+          "teacher": "Teacher",
+          "student": "Student",
+          "parent": "Parent"
+        }
+      }
+    },
+    "user": {
+      "language": { "en": "English", "fr": "French" },
+      "status": { "enabled": "Enabled", "disabled": "Disabled" },
+      "gender": { "male": "Male", "female": "Female" },
+      "loginMethod": { "default": "Default", "provider": "Provider" },
+      "permission": {
+        "feature": {
+          "dashboard_admin": "Admin dashboard",
+          "dashboard_director": "Director dashboard",
+          "dashboard_teacher": "Teacher dashboard",
+          "dashboard_student": "Student dashboard",
+          "dashboard_parent": "Parent dashboard",
+          "dashboard_default": "Default dashboard"
+        },
+        "table": {
+          "*": "*",
+          "communications": "Communications",
+          "contacts": "Contacts",
+          "roles": "Roles",
+          "permissions": "Permissions",
+          "users": "Users",
+          "schools": "Schools",
+          "directors": "Directors",
+          "managers": "Managers",
+          "teachers": "Teachers",
+          "students": "Students",
+          "parents": "Parents",
+          "years": "Years",
+          "courses": "Courses",
+          "exams": "Exams",
+          "meetings": "Meetings",
+          "quizzes": "Quizzes",
+          "results": "Results",
+          "reports": "Reports",
+          "schedules": "Schedules",
+          "requests": "Requests",
+          "payments": "Payments",
+          "highschool_sections": "Highschool Sections",
+          "highschool_specialties": "Highschool Specialties",
+          "highschool_classes": "Highschool Classes",
+          "highschool_quarters": "Highschool Quarters",
+          "highschool_sequences": "Highschool Sequences",
+          "highschool_subjects": "Highschool Subjects",
+          "university_faculties": "University Faculties",
+          "university_departments": "University Departments",
+          "university_domains": "University Domains",
+          "university_levels": "University Levels",
+          "university_semesters": "University Semesters",
+          "university_units": "University Units"
+        }
+      }
+    },
+    "school": {
+      "common": {
+        "student": {
+          "preEnrollStatus": {
+            "initiated": "Initiated",
+            "pending": "Pending",
+            "enrolled": "Enrolled",
+            "rejected": "Rejected"
+          },
+          "enrollOrigin": {
+            "dashboard": "Dashboard",
+            "pre_enroll": "Pre-enroll",
+            "promotion": "Promotion",
+            "retrograde": "Retrograde"
+          }
+        },
+        "exam": {
+          "locationType": { "onsite": "Onsite", "online": "Online" },
+          "status": { "draft": "Draft", "online": "Online" }
+        },
+        "payment": {
+          "status": {
+            "pending": "Pending",
+            "success": "Success",
+            "failed": "Failed",
+            "canceled": "Cancelled",
+            "rejected": "Rejected"
+          },
+          "method": {
+            "cash": "Cash",
+            "card": "Card",
+            "mtn_mobile_money": "MTN Mobile Money",
+            "orange_money": "Orange Money",
+            "bank_transfer": "Bank Transfer",
+            "bank_deposit": "Bank Deposit"
+          }
+        },
+        "quiz": {
+          "status": {
+            "draft": "Draft",
+            "published": "Published",
+            "closed": "Closed",
+            "result": "Result"
+          }
+        },
+        "report": {
+          "gradeType": { "average": "Average", "report": "Report" },
+          "status": { "draft": "Draft", "published": "Published" },
+          "periodType": {
+            "final": "Final",
+            "quarter": "Quarter",
+            "sequence": "Sequence",
+            "semester": "Semester"
+          }
+        },
+        "request": {
+          "status": {
+            "initiated": "Initiated",
+            "pending": "Pending",
+            "completed": "completed",
+            "rejected": "Rejected"
+          },
+          "audience": { "director": "Director", "teacher": "Teacher" }
+        },
+        "result": {
+          "status": { "draft": "Draft", "published": "Published" }
+        },
+        "schedule": {
+          "type": {
+            "course": "Course",
+            "tp": "TP",
+            "td": "TD",
+            "pause": "Pause",
+            "event": "Event"
+          },
+          "dayOfTheWeek": {
+            "monday": "Monday",
+            "tuesday": "Tuesday",
+            "wednesday": "Wednesday",
+            "thursday": "Thursday",
+            "friday": "Friday",
+            "saturday": "Saturday",
+            "sunday": "Sunday"
+          },
+          "repeatType": {
+            "none": "None",
+            "daily": "Daily",
+            "weekly": "Weekly",
+            "monthly": "Monthly",
+            "yearly": "Yearly",
+            "oneTime": "One time"
+          }
+        }
+      },
+      "type": { "highschool": "Highschool", "university": "University" },
+      "status": { "enabled": "Enabled", "disabled": "Disabled" },
+      "deploymentRequest": {
+        "create": "Create",
+        "update": "Update",
+        "delete": "Delete"
+      },
+      "deploymentStatus": {
+        "initiated": "Initiated",
+        "pending": "Pending",
+        "done": "Done",
+        "done_no_changes": "Done no changes",
+        "failed": "Failed"
+      }
+    }
+  },
+  "Sentences": {
+    "common": {
+      "markAllAsSeen": "Mark all as seen",
+      "markAsSeen": "Mark as seen",
+      "deleteAll": "Delete all",
+      "joinMeeting": "Join meeting",
+      "noMessage": "No message",
+      "noNotification": "No notification",
+      "noDescription": "No description",
+      "policyNotAccepted": "You must accept the policy to use this feature."
+    },
+    "modal": {
+      "title": {
+        "description": "Description for {label}",
+        "add": "Add new {label}",
+        "update": "Update {label}",
+        "delete": "Delete {label}",
+        "deleteMultiple": "Delete {label} selection",
+        "upload": "Upload {label}",
+        "download": "Download {label}",
+
+        "updateStatusForRequest": "Update status for request",
+        "answerForQuiz": "Answer for quiz",
+        "solveForQuiz": "Solve for quiz",
+        "resultsForQuiz": "Results for quiz"
+      },
+      "confirm": {
+        "delete": "Are you sure you want to delete this {label}?",
+        "deleteMultiple": "Are you sure you want to delete this {label} selection? This action cannot be undone."
+      },
+      "footer": { "update": "Add some changes in order to update!" }
+    },
+    "feedback": {
+      "add": {
+        "success": "Successfully added {label}!",
+        "error": "Failed to add {label}!"
+      },
+      "update": { "success": "Successfully updated {label}!" },
+      "delete": { "success": "Failed to delete {label}!" },
+      "deleteMultiple": {
+        "success": "Successfully deleted {label} selection!"
+      },
+      "result": {
+        "common": {
+          "quizList": {
+            "successSolution": "Successfully submitted the solution!",
+            "successAnswer": "Successfully submitted the answer!",
+            "warningSolution": "Cannot reveal the solution!",
+            "warningAnswer": "Cannot answer this quiz!",
+            "warningResults": "Cannot show results!"
+          },
+          "requestList": {
+            "success": "Successful updated status!"
+          }
+        },
+        "forbidden": {
+          "title": "Invalid permissions!",
+          "description": "Please check your permissions to access this page and try again."
+        },
+        "default": {
+          "title": "Forbidden",
+          "description": "Failed to fetch data!"
+        }
+      },
+      "form": {
+        "placeholder": {
+          "enterThe": "Enter the {label}",
+          "selectThe": "Select the {label}"
+        },
+        "tooltip": {
+          "schoolShowcaseImages": "Some images for showcasing and advertising in website",
+          "schoolShortName": "The short name of the school",
+          "schoolPaymentCount": "The accepted number of payments for an enrollment",
+          "schoolSmsUserID": "SMS API sender name. Used by Afrika's Talking API",
+          "schoolSocialMediaYoutube": "The Youtube channel of the school",
+          "schoolSocialMediaTwitter": "The Twitter account of the school",
+          "schoolSocialMediaFacebook": "The Facebook account of the school",
+          "schoolSocialMediaTelegram": "The Telegram account of the school",
+          "schoolSocialMediaWhatsapp": "The Whatsapp account of the school",
+          "schoolLocationLongitude": "The longitude of the school's location, useful to display the school's location on a map",
+          "schoolLocationLatitude": "The latitude of the school's location, useful to display the school's location on a map",
+          "schoolFounder": "For multiple founders, use commas to separate the names",
+          "schoolMotto": "The motto of the school. E.g. 'Knowledge is power'",
+          "scheduleIsCommon": "Will be added to all programs for the concerned school"
+        },
+        "validation": {
+          "pleaseSelectTheLabel": "Please select the {label}!",
+          "pleaseSelectTheOption": "Please select the option!",
+          "pleaseEnterValidLabel": "Please enter valid {label}!",
+          "passwordDoesNotMatch": "Passwords do not Match",
+          "pleaseEnterAtLeastOneItem": "Please enter at least one item in the list!"
+        }
+      }
+    },
+    "http": {
+      "error": {
+        "default": "Failed to fetch data! Please check your connection and try again.",
+        "302": "This {model} already exists! Please enter valid information.",
+        "400": "Invalid inputs! Please enter valid information.",
+        "401": "You are not authorized to access this resource! Please log in and try again.",
+        "403": "You do not have permission to access this resource! Please log in and try again.",
+        "404": "This {model} doesn't exists! Please enter valid information.",
+        "409": "Cannot proceed this operation! This input conflict with the requirements.",
+        "422": "Some inputs are not valid! Please enter valid information.",
+        "423": "Locked operation! You cannot proceed this operation since it's now locked.",
+        "429": "Our system is not available! Please try again later.",
+        "500": "Internal server error! Please try again later.",
+        "503": "Bad network or unavailable service! Please check your internet connection and retry again later."
+      }
+    }
+  },
+  "Components": {
+    "tanstack": {
+      "defaultError": "Failed to fetch data! Please check your connection and try again."
+    },
+    "avatar": {
+      "feedback": {
+        "notification": {
+          "seenError": "Failed to mark notification as seen!",
+          "seenAllError": "Failed to mark all notifications as seen!",
+          "deleteError": "Failed to delete notification!",
+          "deleteAllError": "Failed to delete all notifications!"
+        }
+      }
+    },
+    "footer": {
+      "copyright": { "allRightsReserved": "All rights reserved." },
+      "links": {
+        "legalSupport": {
+          "title": "Legal & support",
+          "row1": { "label": "Privacy policy" }
+        },
+        "information": {
+          "title": "Information",
+          "row1": { "label": "Privacy policy" }
+        }
+      }
+    },
+    "form": {
+      "validation": {
+        "defaultRequired": "Please enter valid {label}!",
+        "defaultMinLength": "The minimum allowed characters is {label}!",
+        "defaultMaxLength": "The maximum allowed characters is {label}!",
+        "defaultRegex": "This value doesn't match the regex {label}!",
+        "default": "Please enter valid {label}!",
+        "required": "This field is required",
+        "email": "Please enter a valid email address",
+        "number": "Please enter a valid number",
+        "phone": "Please enter a valid phone number",
+        "password": "Please enter a valid password",
+        "passwordMatch": "Passwords do not match",
+        "invalidName": "Please enter a valid name",
+        "invalidDate": "Please enter a valid date",
+        "invalidTime": "Please enter a valid time",
+        "invalidDateTime": "Please enter a valid date and time",
+        "invalidYear": "Please enter a valid year",
+        "invalidMonth": "Please enter a valid month",
+        "invalidDay": "Please enter a valid day",
+        "invalidHour": "Please enter a valid hour",
+        "invalidMinute": "Please enter a valid minute",
+        "invalidSecond": "Please enter a valid second",
+        "invalidColor": "Please enter a valid color",
+        "invalidUrl": "Please enter a valid URL"
+      },
+      "select": { "add": "Add {label}", "update": "Update {label}" }
+    },
+    "template": { "contentTable": {} },
+    "result": {
+      "default": {
+        "title": "Failed to fetch data!",
+        "description": "Please check your connection and try again."
+      },
+      "forbidden": {
+        "title": "Invalid permissions!",
+        "description": "Please check your permissions to access this page and try again."
+      }
+    },
+    "section": {
+      "contact": {},
+      "notification": { "title": "Loading...", "subtitle": "Please wait..." },
+      "preloadFailed": {
+        "title": "Failed to fetch data!",
+        "subtitle": "Please check your connection and try again."
+      }
+    }
+  },
+  "Pages": {
+    "preloadInvalidYear": {
+      "title": "No available academic year for your school",
+      "subtitle": "We couldnt find any available academic year for your school. Please pre-enroll as a student, or if you are a teacher/parent, contact us."
+    },
+    "notFound": {
+      "title": "Oups!",
+      "subtitle": "Sorry, the page you visited does not exist."
+    },
+    "about": {
+      "title": "Get more about",
+      "row1": {
+        "groupName": "Who We Are",
+        "line1": "We are an education-focused technology team dedicated to building tools that schools can depend on daily.",
+        "line2": "Our platform brings together essential academic workflows: student records, schedules, assessments, communications, and reporting.",
+        "line3": "We believe in privacy-by-design, responsible data use, and respectful communication with all members of the school community.",
+        "line4": "We work closely with educational stakeholders to understand real-world challenges and deliver practical, user-friendly solutions.",
+        "line5": "Our culture values reliability, empathy, and impact—every feature we build serves a clear educational need."
+      },
+      "row2": {
+        "groupName": "Our Mission",
+        "line1": "Our mission is to simplify and elevate school operations by connecting administrators, teachers, students, and parents through a unified, reliable, and intuitive platform.",
+        "line2": "We aim to improve learning outcomes and community engagement by delivering timely, accurate information and streamlined academic processes.",
+        "line3": "We focus on transparency and trust, ensuring communication about exams, results, and academic requests is clear, accessible, and secure.",
+        "line4": "We are committed to continuous improvement, listening to our users, and innovating features that make school life simpler and more effective."
+      },
+      "row3": {
+        "groupName": "What We Offer",
+        "line1": "Centralized academic management: classes, timetables, exams, results, report cards, and student requests in one place.",
+        "line2": "Secure messaging and notifications for important events, including exam schedules, results, and administrative updates.",
+        "line3": "Role-based access for administrators, teachers, students, and parents, ensuring the right information reaches the right people.",
+        "line4": "Analytics and reporting tools that help track performance and support informed academic decisions.",
+        "line5": "A user-friendly experience on web and mobile, designed for speed, clarity, and accessibility.",
+        "line6": "Flexible integrations with messaging channels such as WhatsApp and Telegram for verified, consent-based notifications.",
+        "line7": "Dedicated support and onboarding to help institutions configure and adopt the platform effectively."
+      }
+    },
+    "policy": {
+      "title": "Policy & privacy",
+      "row1": {
+        "groupName": "Privacy Policy",
+        "line1": "We collect only the data necessary to provide and improve our school management services, personalize the experience, and communicate important academic updates.",
+        "line2": "Personal data processed may include: name, email, phone number, role (student/parent/staff), class or program details, identifiers for messaging platforms (e.g., WhatsApp number, Telegram user ID), and audit logs.",
+        "line3": "We use technical cookies and similar technologies strictly for security, session management, and service performance analytics; no unnecessary tracking is conducted.",
+        "line4": "Payment or financial data, when applicable, is processed securely by vetted payment providers and is not stored on our servers beyond what is necessary for accounting and compliance.",
+        "line5": "We share data with essential service providers (hosting, messaging, analytics, support) under contracts requiring confidentiality, security, and data processing only on our instructions.",
+        "line6": "We may disclose data when required by law, court order, or to protect rights, safety, or the integrity of the service.",
+        "line7": "Users can request access, correction, deletion, portability (where applicable), and can object or restrict certain processing as permitted by law.",
+        "line8": "We implement administrative, technical, and physical safeguards appropriate to the sensitivity of the data; however, no method of transmission or storage is completely secure.",
+        "line9": "Data is retained only as long as necessary for the stated purposes, legal obligations, dispute resolution, and legitimate business interests, after which it is securely deleted or anonymized.",
+        "line10": "Links to external sites or services are provided for convenience; their practices are governed by their own policies, which should be reviewed separately.",
+        "line11": "We may update this policy; material changes will be communicated through the service or other reasonable means, with the effective date indicated.",
+        "line12": "Children's Privacy: The service is intended for use in an educational context under appropriate oversight; parental/guardian consent is obtained where required by applicable law.",
+        "line13": "International Transfers: Where data is transferred across borders, we rely on appropriate safeguards (such as contractual clauses) to protect personal data."
+      },
+      "row2": {
+        "groupName": "Whatsapp",
+        "line1": "Purpose: WhatsApp messaging is used solely to deliver important academic notifications, including exam schedules, exam results, report cards/bulletins, and responses to student service requests.",
+        "line2": "Legal basis and consent: We use an OTP-based consent flow; messages are sent only after the user (or authorized guardian) provides verifiable consent via OTP.",
+        "line3": "Data processed: phone number, message content, timestamps, delivery status, and OTP verification meta-data limited to what is necessary for sending and auditing communications.",
+        "line4": "Retention: We store the OTP proof (code reference or token, consent status, and date/time) in our database as evidence of consent, and retain message logs for compliance and troubleshooting for a limited period.",
+        "line5": "Restrictions: No marketing or promotional content is sent via WhatsApp; communications are strictly informational and education-related.",
+        "line6": "Security: Data in transit uses platform encryption; we apply access controls and least-privilege principles to stored consent proofs and logs.",
+        "line7": "Third parties: WhatsApp and any integrated messaging gateway act as processors/transmission channels; they handle data under their own terms and security standards.",
+        "line8": "Control: Users can withdraw consent or opt out of WhatsApp notifications at any time using provided settings or by contacting support; we then cease further WhatsApp messaging except for legally required notices."
+      },
+      "row3": {
+        "groupName": "Telegram",
+        "line1": "Purpose: The Telegram Bot API is used solely for important academic notifications such as exam schedules, results, report cards/bulletins, and responses to student requests.",
+        "line2": "Legal basis and consent: Opt-in is captured through a bot interaction and/or OTP verification; messages are sent only after verifiable consent is recorded.",
+        "line3": "Data processed: Telegram user ID or chat ID, message content, timestamps, delivery status, and minimal meta-data necessary for bot operations and auditing.",
+        "line4": "Retention: We store consent evidence (including OTP or bot opt-in record and date/time) and limited message logs for compliance, with defined retention periods.",
+        "line5": "Restrictions: No marketing or promotional campaigns are conducted through Telegram; communications remain strictly informational and educational.",
+        "line6": "Security: We protect stored identifiers and logs with access controls and encryption-at-rest where applicable; messages are transmitted via Telegram's infrastructure.",
+        "line7": "Third parties: Telegram processes data under its own terms and security measures; our bot uses only the permissions necessary to deliver messages.",
+        "line8": "Control: Users may revoke bot access or opt out from Telegram notifications at any time; upon withdrawal, we stop sending Telegram messages except where legally required."
+      }
+    },
+    "home": {
+      "menus": {
+        "home": "Home",
+        "directors": "Directors",
+        "teachers": "Teachers",
+        "students": "Students",
+        "parents": "Parents"
+      },
+      "hero": {
+        "title": "Effortless school management, anytime, anywhere",
+        "description": "Manage schools easily with an all-in-one platform designed for seamless education",
+        "buttonLoading": "Loading...",
+        "buttonDashboard": "Dashboard",
+        "buttonSignIn": "Sign in",
+        "buttonHelp": "Get started",
+        "image": "/assets/images/pages/home/hero.png"
+      },
+      "heroBenefits": {
+        "title": "Benefits",
+        "subtitle": "The smart choice for your school",
+        "description": "Everything you need to simplify, boost productivity and keep your team aligned",
+        "buttonLearnMore": "Learn more",
+        "cardManagement": {
+          "title": "Management",
+          "description": "Enhance your school's efficiency and transparency with our robust school management system. Manage staff, track student progress and streamline operations.",
+          "actionLabel": "Learn more",
+          "actionHref": "#contact"
+        },
+        "cardForum": {
+          "title": "Forums",
+          "description": "Our forum feature fosters a vibrant community where students and teachers can connect, share ideas, and collaborate on projects.",
+          "actionLabel": "Learn more",
+          "actionHref": "#contact"
+        },
+        "cardMeeting": {
+          "title": "Meetings",
+          "description": "Allows teachers and students to easily schedule and manage one-on-one or group sessions, making it simple to book, confirm, and remind users.",
+          "actionLabel": "Learn more",
+          "actionHref": "#contact"
+        }
+      },
+      "heroDirector": {
+        "title": "Directors",
+        "card1": {
+          "title": "Manage schools",
+          "description": "Our platform allows school principals to securely log in and efficiently manage their institutions. With a user-friendly interface, they can oversee administrative tasks, track performance, and streamline communication within the school. All tools are designed to enhance operational efficiency and support informed decision-making."
+        },
+        "card2": {
+          "title": "Manage teachers",
+          "description": "Manage staff, including teachers, with ease. They can monitor schedules, track performance, and handle staff assignments efficiently. This feature streamlines administrative workflows and fosters better coordination within the school."
+        }
+      },
+      "heroParent": {
+        "title": "Parents",
+        "card1": {
+          "title": "Always informed",
+          "subtitle": "Children, program and courses",
+          "description1": "Sign up to access your personalized parent dashboard",
+          "description2": "Easily select and link your children to your account",
+          "description3": "View all their academic details in one place",
+          "description4": "Stay informed about each child&lsquo;s unique progress and activities",
+          "image": "/assets/images/pages/home/parent-1.png",
+          "buttonHref": "/help",
+          "button": "Learn more"
+        },
+        "card2": {
+          "title": "Success",
+          "subtitle": "Exams, quiz and results",
+          "description1": "Follow your child&lsquo;s exam and quiz schedules effortlessly",
+          "description2": "Instantly access their results and performance reports",
+          "description3": "Get notified about missed exams or low scores",
+          "description4": "Stay engaged with a seamless parent-teacher communication system",
+          "image": "/assets/images/pages/home/parent-2.jpg",
+          "buttonHref": "/help",
+          "button": "Learn more"
+        }
+      },
+      "heroStatistics": {
+        "schools": "Schools",
+        "teachers": "Teachers",
+        "students": "Students",
+        "parents": "Parents"
+      },
+      "heroStudent": {
+        "title": "Students",
+        "card1": {
+          "title": "Programs",
+          "description": "Manage your academic programs with ease. Access course details, schedules, and important updates all in one place."
+        },
+        "card2": {
+          "title": "Courses",
+          "description": "Keep track of your courses with ease. Access schedules, materials, and updates to stay ahead in your studies."
+        },
+        "card3": {
+          "title": "Meeting & forum",
+          "description": "Never miss a session and stay updated on key discussions and announcements."
+        },
+        "card4": {
+          "title": "Exams & results",
+          "description": "Follow your exam schedules and results closely. Get timely updates on scores and progress to stay on top of your studies."
+        }
+      },
+      "heroTeacher": {
+        "title": "Teachers",
+        "description": "Teachers can easily log in to the platform to access a wide range of tools designed to enhance their classroom management and interaction with students. Once logged in, they can view their class schedules, track attendance, and monitor student performance through detailed reports.",
+        "card1": {
+          "image": "/assets/images/pages/home/teacher-student.jpg",
+          "title": "Students/Pupils",
+          "description": "Our student management system simplifies administrative tasks and provides valuable insights into student performance."
+        },
+        "card2": {
+          "image": "/assets/images/pages/home/teacher-course.jpg",
+          "title": "Courses",
+          "description": "Simplifies the process of creating, managing, and tracking courses."
+        },
+        "card3": {
+          "image": "/assets/images/pages/home/teacher-meet.jpg",
+          "title": "Meetings & forum",
+          "description": "Centralized platform for organizing and facilitating meetings and discussions within your school community. "
+        },
+        "card4": {
+          "image": "/assets/images/pages/home/teacher-exam.jpg",
+          "title": "Exams & quizzes",
+          "description": "Simplifies the process of creating, managing, and tracking exams and quizzes."
+        }
+      }
+    },
+    "homeSchool": {
+      "menus": {
+        "home": "Home",
+        "preEnroll": "Pre-enroll",
+        "explore": "Explore"
+      },
+      "hero": {
+        "title": "Welcome to {appName} Online Portal",
+        "description": "Were happy to have you here! Please log in to access your resources and school updates."
+      }
+    },
+    "help": {
+      "hero": { "title": "Hello, and welcome to {label}. How can we help ?" },
+      "segmentFaq": {
+        "title": "Find answers to the most common questions about our platform",
+        "director": {
+          "row1": {
+            "title": "How do I manage staff?",
+            "description": "As a director, you can add, modify, and remove staff members (teachers, administration, etc.) via the Staff Management section. You will also be able to assign roles and manage access."
+          },
+          "row2": {
+            "title": "How do I manage teachers?",
+            "description": "The Teacher Management section allows you to oversee all aspects related to your teaching staff. This includes assigning courses, managing their schedules, tracking their performance, and handling professional development."
+          },
+          "row3": {
+            "title": "How do I manage students?",
+            "description": "In Student Management, you can enroll new students, update their information, track their attendance, manage their academic records, and monitor their overall progress throughout their time at the institution."
+          },
+          "row4": {
+            "title": "How do I manage parents?",
+            "description": "The Parent Management feature enables you to maintain up-to-date contact information for parents, manage communication preferences, and facilitate access to student progress reports and school announcements."
+          },
+          "row5": {
+            "title": "How do I create and manage academic years?",
+            "description": "The Academic Years section allows you to create new academic years, define their start and end dates, and activate or deactivate them. This includes setting up levels and classes for each year."
+          },
+          "row6": {
+            "title": "How do I organize courses and academic levels?",
+            "description": "In the Course and Level Configuration, you can define the course structure, subjects taught for each level (Nursery, Primary, Secondary, etc.), and assign the corresponding teachers."
+          },
+          "row7": {
+            "title": "How do I plan and supervise exams and quizzes?",
+            "description": "The Exams and Assessments section gives you an overview of all evaluations. Here, you can schedule exam sessions, define grading rubrics, and track quiz progress."
+          },
+          "row8": {
+            "title": "How do I manage meetings and communications?",
+            "description": "Use the Meetings and Communications feature to schedule meetings with staff, parents, or students. You can also send important announcements and notifications."
+          },
+          "row9": {
+            "title": "How do I oversee course-specific discussion forums?",
+            "description": "The Forum Management section allows you to moderate discussions for each course. You can create new conversation topics directly related to course content and ensure exchanges remain constructive for student learning."
+          },
+          "row10": {
+            "title": "How do I manage the publication of results?",
+            "description": "In Results Management, you can validate and publish report cards and exam results. You have full control over the visibility of results for students and parents."
+          },
+          "row11": {
+            "title": "How do I handle student requests?",
+            "description": "The Student Requests feature centralizes all student inquiries (academic, administrative issues, etc.). You can assign these requests to the relevant staff and track their resolution."
+          },
+          "row12": {
+            "title": "How do I close the academic year?",
+            "description": "Academic Year Closure is a crucial step. This feature allows you to finalize results, archive current year data, and prepare for the transition to the new school year."
+          }
+        }
+      },
+      "segmentStart": {
+        "title": "Getting started",
+        "director": {
+          "row1": {
+            "title": "Overall School Dashboard",
+            "description": "Your central hub for overseeing all administrative and academic activities of the school. Connect, create, and communicate effortlessly across all departments."
+          },
+          "row2": {
+            "title": "Staff Management",
+            "description": "Effortlessly add, modify, and remove staff members, assign roles, and manage access permissions for a streamlined workflow."
+          },
+          "row3": {
+            "title": "Teacher Management",
+            "description": "Oversee all aspects related to your teaching staff, including course assignments, schedule management, performance tracking, and professional development."
+          },
+          "row4": {
+            "title": "Student Management",
+            "description": "Enroll new students, update their information, track attendance, manage academic records, and monitor overall progress."
+          },
+          "row5": {
+            "title": "Parent Management",
+            "description": "Maintain up-to-date contact information for parents, manage communication preferences, and facilitate access to student progress reports and school announcements."
+          },
+          "row6": {
+            "title": "Academic Year Management",
+            "description": "Create new academic years, define their start and end dates, and set up the academic structure including levels and classes."
+          },
+          "row7": {
+            "title": "Course and Level Configuration",
+            "description": "Define the school's course structure, subjects taught for each academic level (Nursery, Primary, Secondary, etc.), and assign teachers accordingly."
+          },
+          "row8": {
+            "title": "Exam & Quiz Supervision",
+            "description": "Gain a comprehensive overview of all assessments. Plan exam sessions, define grading rubrics, and track the progress of quizzes across the school."
+          },
+          "row9": {
+            "title": "Results & Grading Publication",
+            "description": "Efficiently validate and publish student grades and exam results. You have full control over the visibility of these results for students and parents."
+          },
+          "row10": {
+            "title": "Meetings and Communications",
+            "description": "Schedule and manage meetings with staff, parents, and students. Send important school-wide announcements and notifications to ensure effective communication."
+          },
+          "row11": {
+            "title": "Course-Specific Forum Oversight",
+            "description": "Moderate discussions within course-specific forums. Create new conversation topics related to course content and ensure constructive engagement for student learning."
+          },
+          "row12": {
+            "title": "Student Problem Requests",
+            "description": "Centralize and manage all inquiries and requests from students, such as academic clarifications or administrative issues. Assign requests to relevant staff and track their resolution."
+          },
+          "row13": {
+            "title": "Academic Year Closure",
+            "description": "A critical step to finalize results, archive current year data, and smoothly prepare for the transition to the new academic year."
+          }
+        }
+      }
+    },
+    "helpSchool": {
+      "hero": { "title": "Hello, and welcome to {label}. How can we help ?" },
+      "segmentFaq": {
+        "title": "Find answers to the most common questions about our platform",
+        "teacher": {
+          "row1": {
+            "title": "How do I manage my classes?",
+            "description": "From your Teacher Dashboard, you can effortlessly manage your classes. This includes adding or removing students, viewing class rosters, and setting up class-specific announcements."
+          },
+          "row2": {
+            "title": "How do I create and manage courses?",
+            "description": "Navigate to the Courses section on your dashboard. Here, you can create new courses, upload syllabi, share lecture notes, and organize all your learning materials for each class."
+          },
+          "row3": {
+            "title": "How can I create and schedule exams and quizzes?",
+            "description": "In the Exams & Quizzes section, you can design and schedule various assessments. This includes setting custom formats, defining grading rubrics, and assigning due dates."
+          },
+          "row4": {
+            "title": "How do I record and publish student results?",
+            "description": "Use the Results & Grading feature to efficiently input, calculate, and publish student grades and exam scores. This ensures timely and transparent feedback for your students."
+          },
+          "row5": {
+            "title": "How do I handle student and parent requests?",
+            "description": "The Student Requests section allows you to manage and respond to inquiries from students and parents directly. This includes requests for grade clarifications, assignment extensions, or general information."
+          },
+          "row6": {
+            "title": "How do I plan my class schedule and lessons?",
+            "description": "The Class Planning tool helps you develop and manage your class schedules, create detailed lesson plans, and organize all necessary teaching resources for seamless delivery."
+          },
+          "row7": {
+            "title": "How can I get involved in school events?",
+            "description": "Stay updated with and contribute to school events, parent-teacher meetings, and academic workshops through the Event Coordination section."
+          },
+          "row8": {
+            "title": "How do I track student performance and academic levels?",
+            "description": "Use the Performance Tracking feature to monitor student progress and academic levels. This helps you identify areas for improvement and offer personalized support to your students."
+          }
+        },
+        "student": {
+          "row1": {
+            "title": "How do I enroll in courses?",
+            "description": "You can easily enroll in your desired courses through the Enrollment section. Follow the simple registration process and you will receive notifications upon acceptance into your chosen programs."
+          },
+          "row2": {
+            "title": "How do I access my course materials?",
+            "description": "Once logged in, navigate to the Courses section on your Student Dashboard. Here, you can view your enrolled courses and access all lecture materials, readings, and multimedia content anytime, anywhere."
+          },
+          "row3": {
+            "title": "How can I take exams and quizzes?",
+            "description": "Scheduled exams and quizzes will appear in the Exams & Quizzes section of your dashboard. You can take them directly within the app and often receive instant feedback on your performance."
+          },
+          "row4": {
+            "title": "How do I check my grades and results?",
+            "description": "Your Grades & Results section provides a detailed breakdown of your latest grades, exam scores, and overall academic standing, allowing you to track your progress effectively."
+          },
+          "row5": {
+            "title": "How can I submit a request for assistance or to resolve an issue?",
+            "description": "If you have a problem or need assistance, use the Problem Requests feature to submit a request directly to your teachers or the school administration."
+          },
+          "row6": {
+            "title": "How do I plan my academic schedule?",
+            "description": "The Academic Planning tool allows you to view your daily and weekly class schedules, manage assignment deadlines, and plan your study time effectively to stay organized."
+          },
+          "row7": {
+            "title": "How do I stay informed about school events?",
+            "description": "Stay updated with important school events, academic calendars, and extracurricular activities through the School Events section on your dashboard."
+          },
+          "row8": {
+            "title": "How can I monitor my academic progress?",
+            "description": "The Progress Monitoring feature helps you track your academic level and progress in each subject, ensuring you meet your educational goals and identify areas for improvement."
+          }
+        },
+        "parent": {
+          "row1": {
+            "title": "How do I link my children to my account?",
+            "description": "After logging in for the first time, you can easily link and manage all your children profiles from a single account by browsing and selecting them from the student directory."
+          },
+          "row2": {
+            "title": "How can I monitor my children grades and results?",
+            "description": "Your Parent Dashboard provides access to Grades & Results where you can monitor your children academic performance, including individual subject grades and exam scores."
+          },
+          "row3": {
+            "title": "How do I track my children attendance?",
+            "description": "In the Attendance Tracking section, you can keep tabs on your children attendance records and receive real-time alerts for any absences or tardiness."
+          },
+          "row4": {
+            "title": "How can I communicate with teachers or the school?",
+            "description": "The Communication & Requests feature allows you to send messages directly to your children teachers and school administration, and submit any requests regarding their education."
+          },
+          "row5": {
+            "title": "How do I stay informed about school events and planning?",
+            "description": "The Event & Planning section keeps you updated on important school events, the academic calendar, holidays, and schedules for parent-teacher conferences."
+          },
+          "row6": {
+            "title": "How can I view my children academic progress?",
+            "description": "The Academic Progress feature allows you to view your children current academic levels and overall progress, helping you support their educational journey effectively."
+          },
+          "row7": {
+            "title": "How do I manage tuition payments and fees?",
+            "description": "Access the Fee Management section to view and manage tuition payments, school fees, and any outstanding balances for your children directly through the app."
+          }
+        }
+      },
+      "segmentStart": {
+        "title": "Proceed to the next step by selecting a role",
+        "teacher": {
+          "row1": {
+            "title": "Teacher Dashboard Overview",
+            "description": "Your central hub for managing all academic activities. Connect, create, and communicate effortlessly."
+          },
+          "row2": {
+            "title": "Course Management",
+            "description": "Create new courses, upload syllabi, share lecture notes, and organize all learning materials for your classes."
+          },
+          "row3": {
+            "title": "Exam & Quiz Creation",
+            "description": "Design and schedule various assessments, including exams and quizzes, with customizable formats and grading rubrics."
+          },
+          "row4": {
+            "title": "Results & Grading",
+            "description": "Efficiently input, calculate, and publish student grades and exam results, ensuring timely feedback."
+          },
+          "row5": {
+            "title": "Student Requests",
+            "description": "Manage and respond to student inquiries and requests, such as grade clarifications or assignment extensions."
+          },
+          "row6": {
+            "title": "Class Planning",
+            "description": "Develop and manage your class schedules, lesson plans, and teaching resources for seamless delivery."
+          },
+          "row7": {
+            "title": "Event Coordination",
+            "description": "Stay updated and contribute to school events, parent-teacher meetings, and academic workshops."
+          },
+          "row8": {
+            "title": "Performance Tracking",
+            "description": "Monitor student progress and academic levels, identifying areas for improvement and offering personalized support."
+          }
+        },
+        "student": {
+          "row1": {
+            "title": "Student Dashboard Overview",
+            "description": "Your personalized academic portal. Enroll, track progress, and access all your learning resources."
+          },
+          "row2": {
+            "title": "Enrollment & Acceptance",
+            "description": "Easily enroll in courses and receive notifications upon acceptance into your programs."
+          },
+          "row3": {
+            "title": "Course Access",
+            "description": "View your enrolled courses, access lecture materials, readings, and multimedia content anytime, anywhere."
+          },
+          "row4": {
+            "title": "Exams & Quizzes",
+            "description": "Take scheduled exams and quizzes directly within the app, and receive instant feedback on your performance."
+          },
+          "row5": {
+            "title": "Grades & Results",
+            "description": "Check your latest grades, exam scores, and overall academic standing with detailed breakdowns."
+          },
+          "row6": {
+            "title": "Problem Requests",
+            "description": "Submit requests for assistance or to resolve academic issues directly with your teachers or administration."
+          },
+          "row7": {
+            "title": "Academic Planning",
+            "description": "View your daily and weekly class schedules, manage assignment deadlines, and plan your study time effectively."
+          },
+          "row8": {
+            "title": "School Events",
+            "description": "Stay informed about important school events, academic calendars, and extracurricular activities."
+          },
+          "row9": {
+            "title": "Progress Monitoring",
+            "description": "Track your academic level and progress in each subject, ensuring you meet your educational goals."
+          }
+        },
+        "parent": {
+          "row1": {
+            "title": "Parent Dashboard Overview",
+            "description": "A comprehensive view of your children's academic journey. Connect, monitor, and engage with the school."
+          },
+          "row2": {
+            "title": "Student Linking",
+            "description": "Easily link and manage all your children's profiles from a single account."
+          },
+          "row3": {
+            "title": "Grades & Results",
+            "description": "Monitor your children's grades, exam results, and academic performance across all subjects."
+          },
+          "row4": {
+            "title": "Attendance Tracking",
+            "description": "Keep tabs on your children's attendance records and receive alerts for absences or tardiness."
+          },
+          "row5": {
+            "title": "Communication & Requests",
+            "description": "Send messages to teachers and school administration, and submit requests regarding your children's education."
+          },
+          "row6": {
+            "title": "Event & Planning",
+            "description": "Stay informed about school events, academic calendars, holidays, and parent-teacher conferences."
+          },
+          "row7": {
+            "title": "Academic Progress",
+            "description": "View your children's academic levels and overall progress, helping you support their educational journey."
+          },
+          "row8": {
+            "title": "Fee Management",
+            "description": "Access and manage tuition payments, school fees, and any outstanding balances for your children."
+          }
+        }
+      }
+    },
+    "preEnroll": {
+      "success": {
+        "title": "Congratulations for your enrollment!",
+        "description": "Please check your email to view the status of your application and, if accepted, find your login credentials."
+      },
+      "class": {
+        "title": "List of classes to pre-enroll",
+        "warning": "You are not allowed to pre-enroll"
+      },
+      "levelDomain": {
+        "title": "List of level domains to pre-enroll",
+        "warning": "You are not allowed to pre-enroll"
+      }
+    },
+    "disabled": {
+      "user": {
+        "title": "Your account has been disabled",
+        "description": "We are sorry to inform you that your account has been disabled. If you have any questions or concerns, please contact our support team."
+      },
+      "school": {
+        "title": "Disabled",
+        "description": "The school has been disabled by the administrator! Please contact the administrator to enable it."
+      }
+    },
+    "profile": {
+      "modal": {
+        "title": {
+          "checkCode": "Check code for password update",
+          "setNewPassword": "Set new password",
+          "checkCodeChangePhoneNumber": "Check code to update phone number",
+          "changePhoneNumber": "Set new phone number",
+          "checkCodeChange2faEmail": "Check code to update 2FA email"
+        }
+      },
+      "form": {
+        "title": {
+          "updateProfileCheckCode": "Enter the received code on your email"
+        },
+        "updateProfile": {
+          "avatarImage": "Avatar Image",
+          "userName": "Username",
+          "button": "Update"
+        },
+        "updateProfileMessage": {
+          "label": "Update contact information",
+          "button": "Update"
+        },
+        "updateProfilePassword": {
+          "label": "Update password",
+          "button": "Update"
+        },
+        "updateProfilePhoneNumber": {
+          "label": "Update phone number",
+          "button": "Update"
+        },
+        "updateProfileMfaEmail": {
+          "label": "Update 2FA email",
+          "button": "Update"
+        }
+      },
+      "description": {
+        "profile": "This is some information about the user",
+        "settings": "Information about Mfa, Permissions and role.",
+        "message": "Information about social media notifications and messages"
+      },
+      "feedback": {
+        "updateProfile": {
+          "success": "Successful updated profile!",
+          "error": "Failed to update profile!"
+        },
+        "updateProfileMessage": {
+          "success": "Successful updated contact information!",
+          "error": "Failed to update contact information!"
+        },
+        "updateProfilePasswordInit": {
+          "success": "Please check the code that was sent to your email!",
+          "error": "Failed to update password!"
+        },
+        "updateProfilePasswordCheckCode": {
+          "success": "Enter your new password!"
+        },
+        "updateProfilePasswordNewPassword": {
+          "success": "Successful updated password!"
+        },
+        "updateProfilePhoneNumberInit": {
+          "success": "Please check the code that was sent to your email!",
+          "error": "Failed to update phone number!"
+        },
+        "updateProfilePhoneNumberCheckCode": {
+          "success": "Enter your new phone number!"
+        },
+        "updateProfilePhoneNumberNewPhoneNumber": {
+          "success": "Successful updated phone number!"
+        },
+        "updateProfileMfaEmailInit": {
+          "success": "You need to enter your current email!",
+          "error": "Failed to update 2FA email settings!"
+        },
+        "updateProfileMfaEmailCheckCode": {
+          "success": "Successful updated 2FA email settings!",
+          "error": "Failed to update 2FA email settings!"
+        },
+        "updateProfileSettingNotification": {
+          "error": "Failed to update notification settings!"
+        }
+      }
+    },
+    "dashboard": {
+      "admin": {
+        "home": {
+          "newUsers": "New users this year so far",
+          "usersByYear": "All time users progression by year"
+        }
+      }
+    },
+    "auth": {
+      "login": {
+        "title": "Sign in",
+        "description": "Welcome back to {label}! Please enter your details below to sign in.",
+        "form": {
+          "extra": {
+            "forgotPassword": "Forgot password?",
+            "dontHaveAccount": "Don't have an account?"
+          },
+          "error": {
+            "default": "Something went wrong, please try again later.",
+            "invalidEmailPassword": "Invalid email or password! Please enter valid information or try again later if the problem persists."
+          }
+        }
+      },
+      "register": {
+        "title": "Create an account",
+        "description": "Welcome to {label}! Please enter your details below to sign up.",
+        "form": {
+          "extra": { "alreadyHaveAccount": "Already have an account?" },
+          "error": {
+            "default": "Something went wrong, please try again later.",
+            "invalidEmailPassword": "Invalid email or password! Please enter valid information or try again later if the problem persists."
+          }
+        }
+      },
+      "activate": {
+        "init": {
+          "title": "Account activation",
+          "description": "Please enter the activation code sent to your email to activate your account.",
+          "form": {
+            "extra": { "alreadyHaveAccount": "Already have an account?" }
+          }
+        },
+        "alreadyHaveAccount": "Already have an account?",
+        "success": {
+          "title": "Account successful activated",
+          "description": "You can now access all the features and enjoy our services. Welcome aboard, and thank you for joining us!"
+        },
+        "form": { "code": "Code", "button": "Activate" }
+      },
+      "error": {
+        "default": {
+          "title": "Authentication error",
+          "description": "We were unable to verify your credentials. Please ensure that you have entered the correct username and password."
+        }
+      },
+      "forgot": {
+        "init": {
+          "title": "Forgot password",
+          "description": "Please enter your email to receive instructions on how to reset your password.",
+          "form": {
+            "extra": { "alreadyHaveAccount": "Already have an account?" }
+          },
+          "error": {
+            "default": "Something went wrong, please try again later.",
+            "invalidEmail": "Invalid email! Please enter valid information or try again later if the problem persists."
+          }
+        },
+        "checkCode": {
+          "title": "Forgot password - step 2",
+          "description": "Please enter the code that was sent to your email to reset your password.",
+          "form": {
+            "extra": { "alreadyHaveAccount": "Already have an account?" }
+          }
+        },
+        "newPassword": {
+          "title": "Reset password",
+          "description": "Please enter your new password to reset your password.",
+          "form": {
+            "extra": { "alreadyHaveAccount": "Already have an account?" }
+          }
+        },
+        "success": {
+          "title": "Password successful changed",
+          "description": "Your password has been changed successfully. If you did not make this change, please contact our support team immediately."
+        }
+      },
+      "logout": {
+        "title": "Successful logged out",
+        "description": "Thank you for using {label}. You've been successfully logged out of your account. Would you like to log back in or explore more?"
+      },
+      "invalidPermissions": {
+        "title": "Invalid permissions",
+        "description": "This means you don't have the necessary rights to access or use this specific feature. It could be due to your account type, the settings of the feature, or other restrictions. Please contact your administrator if you need further assistance."
+      },
+      "invalidSession": {
+        "title": "Session timeout",
+        "description": "To enhance security, we've implemented a session timeout of 60 minutes to 30 days on all user accounts. This helps protect user data in case a computer is left unattended."
+      }
+    }
+  }
+}

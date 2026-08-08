@@ -1,0 +1,76 @@
+@tailwind utilities;
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #000000;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+
+  background-size: 24px 24px;
+  background-image:
+    linear-gradient(#45a7f71a 1px, transparent 1px),
+    linear-gradient(to right, #45a7f71a 1px, rgba(255, 255, 255, 0) 1px);
+}
+
+/* Scrollbar for Firefox Browser */
+html,
+body,
+.ant-table-content,
+.ant-select-dropdown,
+.ant-select-dropdown .rc-virtual-list {
+  scrollbar-width: thin;
+  scrollbar-color: #d3d3d3 transparent;
+}
+/* Scrollbar for Chrome, EDGE, Opera, Others */
+html::-webkit-scrollbar,
+body::-webkit-scrollbar,
+.ant-table-content::-webkit-scrollbar,
+.ant-select-dropdown::-webkit-scrollbar,
+.ant-select-dropdown .rc-virtual-list::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+html::-webkit-scrollbar-thumb,
+body::-webkit-scrollbar-thumb,
+.ant-table-content::-webkit-scrollbar-thumb,
+.ant-select-dropdown::-webkit-scrollbar-thumb,
+.ant-select-dropdown .rc-virtual-list::-webkit-scrollbar-thumb {
+  background-color: #d3d3d3;
+}
+html::-webkit-scrollbar-track,
+body::-webkit-scrollbar-track,
+.ant-table-content::-webkit-scrollbar-track,
+.ant-select-dropdown::-webkit-scrollbar-track,
+.ant-select-dropdown .rc-virtual-list::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.background-pattern-blue {
+  background-size: 24px 24px;
+  background-image:
+    linear-gradient(#45a7f71a 1px, transparent 1px),
+    linear-gradient(to right, #45a7f71a 1px, rgba(255, 255, 255, 0) 1px);
+}
+
+.background-pattern-white {
+  background-size: 24px 24px;
+  background-image:
+    linear-gradient(#ffffff59 1px, transparent 1px),
+    linear-gradient(to right, #ffffff59 1px, rgba(255, 255, 255, 0) 1px);
+}
+
+.background-pattern-white-low {
+  background-size: 24px 24px;
+  background-image:
+    linear-gradient(#ffffff27 1px, transparent 1px),
+    linear-gradient(to right, #ffffff27 1px, rgba(255, 255, 255, 0) 1px);
+}

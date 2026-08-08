@@ -1,0 +1,1482 @@
+{
+  "Words": {
+    "notifications": "Notifications",
+    "dashboard": "Tableau de bord",
+    "profile": "Profil",
+    "logout": "Déconnexion",
+    "login": "Connexion",
+    "register": "S'enregistrer",
+    "home": "Accueil",
+    "about": "À propos",
+    "contact": "Contact",
+    "settings": "Paramètres",
+    "information": "Information",
+    "configuration": "Configuration",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "faq": "FAQ",
+    "help": "Aide",
+    "language": "Langue",
+    "refresh": "Actualiser",
+    "course": "Cours",
+    "credit": "Crédit",
+    "coefficient": "Coefficient",
+    "preEnroll": "Pré-inscription",
+    "schedule": "Emploi du temps",
+    "enroll": "Inscription",
+    "closed": "Fermé",
+    "add": "Ajouter",
+    "resolve": "Résoudre",
+    "answer": "Réponse",
+    "solution": "Solution",
+    "meeting": "Réunion",
+    "online": "En ligne",
+    "offline": "Hors ligne",
+    "ended": "Terminé",
+    "started": "Commencé",
+    "upcoming": "À venir",
+    "starts": "Débute",
+    "Ends": "Se termine",
+    "percentage": "Pourcentage",
+    "score": "Note",
+    "locationDetails": "Détails de l'emplacement",
+    "requirements": "Exigences",
+    "allowedItems": "Éléments autorisés",
+    "videosLinks": "Liens des vidéos",
+    "videosLink": "Lien de la vidéo",
+    "url": "URL",
+    "id": "ID",
+    "uid": "Matricule",
+    "name": "Nom",
+    "description": "Description",
+    "message": "Message",
+    "audience": "Audience",
+    "createdAt": "Créé le",
+    "updatedAt": "Mis à jour le",
+    "status": "Statut",
+    "school": "École",
+    "subject": "Matière",
+    "unit": "Unité",
+    "class": "Classe",
+    "levelDomain": "Niveau d'une specialité",
+    "classLevelDomain": "Classe/Niveau d'une specialité",
+    "subjectUnit": "Matière/Unité",
+    "specialty": "Spécialité",
+    "section": "Section",
+    "sequence": "Séquence",
+    "quarter": "Trimestre",
+    "semester": "Semestre",
+    "sequenceSemester": "Séquence/semestre",
+    "year": "Année",
+    "month": "Mois",
+    "day": "Jour",
+    "hour": "Heure",
+    "minute": "Minute",
+    "second": "Seconde",
+    "week": "Semaine",
+    "level": "Niveau",
+    "domain": "Specialité",
+    "department": "Département",
+    "faculty": "Faculté",
+    "email": "Email",
+    "autoGenerateEmail": "Générer un email automatiquement",
+    "emailCount": "Email {count}",
+    "table": "Tableau",
+    "yes": "Oui",
+    "no": "Non",
+    "selection": "Sélection",
+    "file": "Fichier",
+    "strategy": "Stratégie",
+    "create": "Créer",
+    "read": "Lire",
+    "update": "Mettre à jour",
+    "delete": "Supprimer",
+    "cancel": "Annuler",
+    "submit": "Soumettre",
+    "retry": "Réessayer",
+    "send": "Envoyer",
+    "feature": "Fonctionnalité",
+    "phoneNumber": "Numéro de téléphone",
+    "phoneNumberCount": "Numéro de téléphone {count}",
+    "loginMethod": "Méthode de connexion",
+    "provider": "Fournisseur",
+    "providerUserID": "ID utilisateur du fournisseur",
+    "isEmailVerified": "Email est-il vérifié",
+    "activatedAt": "Activé le",
+    "gender": "Genre",
+    "username": "Nom d'utilisateur",
+    "firstName": "Prénom",
+    "lastName": "Nom de famille",
+    "birthday": "Date de naissance",
+    "birthLocation": "Lieu de naissance",
+    "address": "Adresse",
+    "image": "Image",
+    "imageCount": "Image {count}",
+    "showcaseImages": "Images de présentation",
+    "emailEnabled": "Email activé",
+    "authenticatorEnabled": "Authentificateur activé",
+    "loading": "Chargement",
+    "welcome": "Bienvenue",
+    "show": "Afficher",
+    "hide": "Masquer",
+    "privacyPolicy": "Politique de confidentialité",
+    "contactUs": "Nous contacter",
+    "clear": "Effacer",
+    "resultsFor": "Résultats pour",
+    "filter": "Filtrer",
+    "sort": "Trier",
+    "export": "Exporter",
+    "search": "Rechercher",
+    "title": "Titre",
+    "program": "Programme",
+    "fees": "Frais",
+    "isValid": "Est valide",
+    "classDescription": "Description de la classe",
+    "subjectDescription": "Description de la matière",
+    "startDate": "Date de début",
+    "endDate": "Date de fin",
+    "document": "Document",
+    "documentCount": "Document {count}",
+    "origin": "Origine",
+    "type": "Type",
+    "location": "Emplacement",
+    "locationType": "Type d'emplacement",
+    "deploymentRequest": "Demande de déploiement",
+    "deploymentStatus": "Statut de déploiement",
+    "deploymentFeedback": "Retour de déploiement",
+    "deploymentExtra": "Déploiement supplémentaire",
+    "deploymentVersion": "Version du déploiements",
+    "favicon": "Favicon",
+    "logo": "Logo",
+    "logoWhite": "Logo blanc",
+    "currency": "Devise",
+    "paymentCount": "Nombre de paiements",
+    "fullName": "Nom complet",
+    "motto": "Devise",
+    "founder": "Fondateur",
+    "foundedAt": "Fondée le",
+    "locationLongitude": "Longitude de l'emplacement",
+    "locationLatitude": "Latitude de l'emplacement",
+    "socialMediaTelegram": "Réseaux sociaux Telegram",
+    "socialMediaWhasapp": "Réseaux sociaux WhatsApp",
+    "socialMediaYoutube": "Réseaux sociaux Youtube",
+    "socialMediaTwitter": "Réseaux sociaux Twitter",
+    "socialMediaFacebook": "Réseaux sociaux Facebook",
+    "websiteDomainName": "Nom de domaine du site web",
+    "userEmailDomainName": "Nom de domaine de l'email utilisateur",
+    "supportEmail": "Email du support",
+    "googleWorkspaceCredentials": "Identifiants Google Workspace",
+    "googleWorkspaceUserEmailDomain": "Nom de domaine de l'email utilisateur Google Workspace",
+    "smsUserID": "ID utilisateur SMS",
+    "whatsappToken": "Jeton WhatsApp",
+    "whatsappPhoneID": "ID téléphone WhatsApp",
+    "telegramBotToken": "Jeton du bot Telegram",
+    "websiteTitle": "Titre du site web",
+    "websiteDescription": "Description du site web",
+    "colorPrimary": "Couleur primaire",
+    "colorPrimaryBg": "Couleur de fond primaire",
+    "colorPrimaryBgHover": "Couleur de fond primaire au survol",
+    "isCommon": "Est commun",
+    "dayOfTheWeek": "Jour de la semaine",
+    "repeatCount": "Nombre de répétitions",
+    "repeatType": "Type de répétition",
+    "startTime": "Heure de début",
+    "endTime": "Heure de fin",
+    "startCountDate": "Date de début du comptage",
+    "statusFeedback": "Retour d'état",
+    "periodName": "Nom de la période",
+    "periodType": "Type de période",
+    "periodValue": "Valeur de la période",
+    "minimum": "Minimum",
+    "maximum": "Maximum",
+    "includeMinimum": "Inclure le minimum",
+    "includeMaximum": "Inclure le maximum",
+    "coefficientCredit": "Coefficient/crédit",
+    "notation": "Notation",
+    "isRetry": "Est un essai",
+    "retryCount": "Nombre d'essais",
+    "retryDetails": "Détails des essais",
+    "newScore": "Nouvelle note",
+    "notationAverage": "Moyenne des notations",
+    "notationReport": "Rapport de notation",
+    "minimumRequiredScoreToPromote": "Note minimale requise pour la promotion",
+    "totalQuestions": "Nombre total de questions",
+    "totalStudents": "Nombre total d'étudiants",
+    "number": "Numéro",
+    "ranking": "Classement",
+    "administrator": "Administrateur",
+    "director": "Directeur",
+    "teacher": "Enseignant",
+    "student": "Étudiant",
+    "studentEnroll": "Inscription des étudiants",
+    "parent": "Parent",
+    "question": "Question",
+    "questions": "Questions",
+    "answers": "Réponses",
+    "option": "Option",
+    "options": "Options",
+    "amount": "Montant",
+    "date": "Date",
+    "method": "Méthode",
+    "male": "Homme",
+    "female": "Femme",
+    "other": "Autre",
+    "typeDescription": "Description du type",
+    "content": "Contenu",
+    "documents": "Documents",
+    "videos": "Vidéos",
+    "website": "Site web",
+    "role": "Rôle",
+    "edit": "Modifier",
+    "mfaWithEmail": "2FA avec email",
+    "mfaWithAuthenticator": "2FA avec authentificateur",
+    "whatsappPhoneNumber": "Numéro de téléphone Whatsapp",
+    "telegramChatID": "ID de chat Telegram",
+    "avatarImage": "Image de l'avatar",
+    "accept": "Accepter",
+    "acceptPolicy": "Accepter la politique",
+    "policy": "Politique",
+    "password": "Mot de passe",
+    "currentPassword": "Mot de passe actuel",
+    "newPassword": "Nouveau mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "invalid": "Invalide",
+    "invalidLabel": "{label} invalide",
+    "thisLabel": "Ce/Cette {label}",
+    "deployment": "Déploiement",
+    "topic": "Sujet",
+    "every": "Chaque",
+    "repeat": "Répéter",
+    "times": "Fois",
+    "until": "Jusqu'à",
+    "selectedItems": "Éléments sélectionnés",
+    "page": "Page",
+    "import": "Importer",
+    "download": "Télécharger",
+    "upload": "Télécharger",
+    "isActivated": "Est activé",
+    "user": "Utilisateur",
+    "time": "Heure",
+    "monday": "Lundi",
+    "tuesday": "Mardi",
+    "wednesday": "Mercredi",
+    "thursday": "Jeudi",
+    "friday": "Vendredi",
+    "saturday": "Samedi",
+    "sunday": "Dimanche",
+    "exam": "Examen",
+    "examType": "Type d'examen",
+    "request": "Requête",
+    "grade": "Note",
+    "isSuccessful": "Est réussi",
+    "rank": "Rang",
+    "isRunning": "En live",
+    "apiRoomID": "ID de la salle API",
+    "paymentMethod": "Méthode de paiement",
+    "value": "Valeur",
+    "color": "Couleur",
+    "showMore": "Afficher plus",
+    "showLess": "Afficher moins",
+    "comments": "Commentaires",
+    "comment": "Commentaire",
+    "unknownUser": "Utilisateur inconnu",
+    "start": "Début",
+    "end": "Fin",
+    "statistcs": "Statistiques",
+    "highschool": "Lycée",
+    "university": "Université",
+    "entries": "Entrées",
+    "types": "Types",
+    "tables": "Tableaux",
+    "quarters": "Trimestres",
+    "sequences": "Séquences",
+    "sections": "Sections",
+    "specialties": "Spécialités",
+    "classes": "Classes",
+    "subjects": "Matières",
+    "classSubjects": "Matières par classe",
+    "semesters": "Semestres",
+    "faculties": "Facultés",
+    "departments": "Départements",
+    "domains": "Specialités",
+    "levels": "Niveaux",
+    "levelDomains": "Niveaux par domaines",
+    "units": "Unités",
+    "schools": "Écoles",
+    "users": "Utilisateurs",
+    "roles": "Rôles",
+    "permissions": "Permissions",
+    "directors": "Directeurs",
+    "managers": "Managers",
+    "teachers": "Enseignants",
+    "students": "Étudiants",
+    "parents": "Parents",
+    "years": "Années",
+    "teachings": "Enseignements",
+    "schedules": "Calendriers",
+    "weeklyView": "Semaine",
+    "courses": "Cours",
+    "meetings": "Réunions",
+    "quizzes": "Quizs",
+    "exams": "Examens",
+    "results": "Résultats",
+    "reports": "Rapports",
+    "requests": "Requêtes",
+    "payments": "Paiements",
+    "grades": "Notes",
+    "correspondences": "Correspondances",
+    "averages": "Moyennes",
+    "preEnrolls": "Pré-inscriptions",
+    "enrolls": "Inscriptions",
+    "parentings": "Parentalités",
+    "others": "Autres",
+    "communications": "Communications",
+    "helpCenter": "Centre d'aide",
+    "communication": "Communication",
+    "permission": "Permission",
+    "parentStudent": "Parent/Étudiant",
+    "reportAverage": "Moyenne du rapport",
+    "reportTable": "Tableau de rapport",
+    "reportConfig": "Configuration du rapport",
+    "reportEntry": "Entrée de rapport",
+    "reportCorrespondence": "Correspondance du rapport",
+    "reportGrade": "Note du rapport",
+    "teaching": "Enseignement",
+    "resultTable": "Tableau des résultats",
+    "resultEntry": "Entrée de résultat",
+    "default": "Par défaut",
+    "activate": "Activer",
+    "backToHome": "Retour à l'accueil",
+    "stayConnected": "Restez connecté",
+    "getStarted": "Commencer",
+    "features": "Fonctionnalités",
+    "statistics": "Statistiques",
+    "invalidatedDate": "Date d'invalidité",
+    "ascending": "Croissant",
+    "descending": "Décroissant",
+    "close": "Fermer",
+    "total": "Total",
+    "actions": "Actions",
+    "quizAnswer": "Reponse du quiz",
+    "quizQuestion": "Question du quiz",
+    "quiz": "Quiz",
+    "browse": "Parcourir",
+    "joinMeeting": "Rejoindre la réunion"
+  },
+  "Enums": {
+    "others": {
+      "communication": {
+        "audience": {
+          "school": "École",
+          "director": "Directeur",
+          "teacher": "Enseignant",
+          "student": "Étudiant",
+          "parent": "Parent"
+        }
+      }
+    },
+    "user": {
+      "language": { "en": "Anglais", "fr": "Français" },
+      "status": { "enabled": "Activé", "disabled": "Désactivé" },
+      "gender": { "male": "Homme", "female": "Femme" },
+      "loginMethod": { "default": "Par défaut", "provider": "Fournisseur" },
+      "permission": {
+        "feature": {
+          "dashboard_admin": "Tableau de bord admin",
+          "dashboard_director": "Tableau de bord directeur",
+          "dashboard_teacher": "Tableau de bord enseignant",
+          "dashboard_student": "Tableau de bord étudiant",
+          "dashboard_parent": "Tableau de bord parent",
+          "dashboard_default": "Tableau de bord par défaut"
+        },
+        "table": {
+          "*": "*",
+          "communications": "Communications",
+          "contacts": "Contacts",
+          "roles": "Rôles",
+          "permissions": "Permissions",
+          "users": "Utilisateurs",
+          "schools": "Écoles",
+          "directors": "Directeurs",
+          "managers": "Managers",
+          "teachers": "Enseignants",
+          "students": "Étudiants",
+          "parents": "Parents",
+          "years": "Années",
+          "courses": "Cours",
+          "exams": "Examens",
+          "meetings": "Réunions",
+          "quizzes": "Quiz",
+          "results": "Résultats",
+          "reports": "Rapports",
+          "schedules": "Emplois du temps",
+          "requests": "Demandes",
+          "payments": "Paiements",
+          "highschool_sections": "Sections",
+          "highschool_specialties": "Spécialités",
+          "highschool_classes": "Classes",
+          "highschool_quarters": "Trimestres",
+          "highschool_sequences": "Séquences",
+          "highschool_subjects": "Matières",
+          "university_faculties": "Facultés",
+          "university_departments": "Départements",
+          "university_domains": "Specialités",
+          "university_levels": "Niveaux",
+          "university_semesters": "Semestres",
+          "university_units": "Unités"
+        }
+      }
+    },
+    "school": {
+      "common": {
+        "student": {
+          "preEnrollStatus": {
+            "initiated": "Initié",
+            "pending": "En attente",
+            "enrolled": "Inscrit",
+            "rejected": "Rejeté"
+          },
+          "enrollOrigin": {
+            "dashboard": "Tableau de bord",
+            "pre_enroll": "Pré-inscription",
+            "promotion": "Promotion",
+            "retrograde": "Rétrogradation"
+          }
+        },
+        "exam": {
+          "locationType": { "onsite": "Sur place", "online": "En ligne" },
+          "status": { "draft": "Brouillon", "online": "En ligne" }
+        },
+        "payment": {
+          "status": {
+            "pending": "En attente",
+            "success": "Réussi",
+            "failed": "Échoué",
+            "canceled": "Annulé",
+            "rejected": "Rejeté"
+          },
+          "method": {
+            "cash": "Espèces",
+            "card": "Carte",
+            "mtn_mobile_money": "MTN Mobile Money",
+            "orange_money": "Orange Money",
+            "bank_transfer": "Virement bancaire",
+            "bank_deposit": "Dépôt bancaire"
+          }
+        },
+        "quiz": {
+          "status": {
+            "draft": "Brouillon",
+            "published": "Publié",
+            "closed": "Fermé",
+            "result": "Résultat"
+          }
+        },
+        "report": {
+          "gradeType": { "average": "Moyenne", "report": "Rapport" },
+          "status": { "draft": "Brouillon", "published": "Publié" },
+          "periodType": {
+            "final": "Final",
+            "quarter": "Trimestre",
+            "sequence": "Séquence",
+            "semester": "Semestre"
+          }
+        },
+        "request": {
+          "status": {
+            "initiated": "Initiée",
+            "pending": "En attente",
+            "completed": "Terminée",
+            "rejected": "Rejetée"
+          },
+          "audience": { "director": "Directeur", "teacher": "Enseignant" }
+        },
+        "result": {
+          "status": { "draft": "Brouillon", "published": "Publié" }
+        },
+        "schedule": {
+          "type": {
+            "course": "Cours",
+            "tp": "TP",
+            "td": "TD",
+            "pause": "Pause",
+            "event": "Événement"
+          },
+          "dayOfTheWeek": {
+            "monday": "Lundi",
+            "tuesday": "Mardi",
+            "wednesday": "Mercredi",
+            "thursday": "Jeudi",
+            "friday": "Vendredi",
+            "saturday": "Samedi",
+            "sunday": "Dimanche"
+          },
+          "repeatType": {
+            "none": "Aucune",
+            "daily": "Journalière",
+            "weekly": "Hebdomadaire",
+            "monthly": "Mensuelle",
+            "yearly": "Annuelle",
+            "oneTime": "Une fois"
+          }
+        }
+      },
+      "type": { "highschool": "Lycée", "university": "Université" },
+      "status": { "enabled": "Activé", "disabled": "Désactivé" },
+      "deploymentRequest": {
+        "create": "Créer",
+        "update": "Mise à jour",
+        "delete": "Supprimer"
+      },
+      "deploymentStatus": {
+        "initiated": "Initié",
+        "pending": "En attente",
+        "done": "Terminé",
+        "done_no_changes": "Terminé sans modifications",
+        "failed": "Échoué"
+      }
+    }
+  },
+  "Sentences": {
+    "common": {
+      "markAllAsSeen": "Tout marquer comme vu",
+      "markAsSeen": "Marquer comme vu",
+      "deleteAll": "Tout supprimer",
+      "joinMeeting": "Rejoindre la réunion",
+      "noMessage": "Aucun message",
+      "noNotification": "Aucune notification",
+      "noDescription": "Aucune description",
+      "policyNotAccepted": "Vous devez accepter la politique pour utiliser cette fonctionnalité."
+    },
+    "modal": {
+      "title": {
+        "description": "Détails sur le/la/l' {label}",
+        "add": "Ajouter un(e) {label}",
+        "update": "Mettre à jour le/la/l' {label}",
+        "delete": "Supprimer le/la/l' {label}",
+        "deleteMultiple": "Supprimer la sélection de {label}",
+        "upload": "Télécharger le/la/l' {label}",
+        "download": "Télécharger le/la/l' {label}",
+
+        "updateStatusForRequest": "Mettre à jour le statut de la requête",
+        "answerForQuiz": "Repondre au quiz",
+        "solveForQuiz": "Solutioner le quiz",
+        "resultsForQuiz": "Résultats du quiz"
+      },
+      "confirm": {
+        "delete": "Êtes-vous sûr de vouloir supprimer le/la/l' {label}?",
+        "deleteMultiple": "Êtes-vous sûr de vouloir supprimer la sélection de {label}? Cette action est irréversible."
+      },
+      "footer": { "update": "Ajoutez des modifications pour mettre à jour!" }
+    },
+    "feedback": {
+      "add": {
+        "success": "{label} ajouté(e) avec succès!",
+        "error": "Échec de l'ajout d'un(e) {label}!"
+      },
+      "update": { "success": "{label} mis(e) à jour avec succès!" },
+      "delete": { "success": "Échec de la suppression de {label}!" },
+      "deleteMultiple": {
+        "success": "Sélection de {label} supprimée avec succès!"
+      },
+      "result": {
+        "common": {
+          "quizList": {
+            "successSolution": "Solution soumise avec succès!",
+            "successAnswer": "Réponse soumise avec succès!",
+            "warningSolution": "Impossible de révéler la solution!",
+            "warningAnswer": "Impossible de répondre à ce quiz!",
+            "warningResults": "Impossible d'afficher les résultats!"
+          },
+          "requestList": {
+            "success": "Statut mis à jour avec succès!"
+          }
+        },
+        "forbidden": {
+          "title": "Permissions invalides!",
+          "description": "Veuillez vérifier vos permissions pour accéder à cette page et réessayer."
+        },
+        "default": {
+          "title": "Interdit",
+          "description": "Échec de la récupération des données!"
+        }
+      },
+      "form": {
+        "placeholder": {
+          "enterThe": "Entrez le/la/l' {label}",
+          "selectThe": "Sélectionnez le/la/l' {label}"
+        },
+        "tooltip": {
+          "schoolShowcaseImages": "Quelques images pour la présentation et la publicité sur le site web",
+          "schoolShortName": "Le nom court de l'école",
+          "schoolPaymentCount": "Le nombre de paiements acceptés pour une inscription",
+          "schoolSmsUserID": "Nom de l'expéditeur de l'API SMS. Utilisé par l'API Afrika's Talking",
+          "schoolSocialMediaYoutube": "La chaîne Youtube de l'école",
+          "schoolSocialMediaTwitter": "Le compte Twitter de l'école",
+          "schoolSocialMediaFacebook": "Le compte Facebook de l'école",
+          "schoolSocialMediaTelegram": "Le compte Telegram de l'école",
+          "schoolSocialMediaWhatsapp": "Le compte Whatsapp de l'école",
+          "schoolLocationLongitude": "La longitude de l'emplacement de l'école, utile pour afficher l'emplacement de l'école sur une carte",
+          "schoolLocationLatitude": "La latitude de l'emplacement de l'école, utile pour afficher l'emplacement de l'école sur une carte",
+          "schoolFounder": "Pour plusieurs fondateurs, utilisez des virgules pour séparer les noms",
+          "schoolMotto": "La devise de l'école. Ex : 'La connaissance est le pouvoir'",
+          "scheduleIsCommon": "Sera ajouté à tous les programmes pour l'école concernée"
+        },
+        "validation": {
+          "pleaseSelectTheLabel": "Veuillez sélectionner le/la/l' {label}!",
+          "pleaseSelectTheOption": "Veuillez sélectionner l'option!",
+          "pleaseEnterValidLabel": "Veuillez entrer un(e) {label} valide!",
+          "passwordDoesNotMatch": "Les mots de passe ne correspondent pas",
+          "pleaseEnterAtLeastOneItem": "Veuillez entrer au moins un élément dans la liste!"
+        }
+      }
+    },
+    "http": {
+      "error": {
+        "default": "Échec de la récupération des données! Veuillez vérifier votre connexion et réessayer.",
+        "302": "Ce/Cette {model} existe déjà! Veuillez entrer des informations valides.",
+        "400": "Entrées invalides! Veuillez entrer des informations valides.",
+        "401": "Vous n'êtes pas autorisé à accéder à cette ressource! Veuillez vous connecter et réessayer.",
+        "403": "Vous n'avez pas la permission d'accéder à cette ressource! Veuillez vous connecter et réessayer.",
+        "404": "Ce/Cette {model} n'existe pas! Veuillez entrer des informations valides.",
+        "409": "Impossible de continuer cette opération! Cette entrée est en conflit avec les exigences.",
+        "422": "Certaines entrées ne sont pas valides! Veuillez entrer des informations valides.",
+        "423": "Opération verrouillée! Vous ne pouvez pas continuer cette opération car elle est verrouillée.",
+        "429": "Notre système n'est pas disponible! Veuillez réessayer plus tard.",
+        "500": "Erreur interne du serveur! Veuillez réessayer plus tard.",
+        "503": "Mauvais réseau ou service indisponible! Veuillez vérifier votre connexion internet et réessayer plus tard."
+      }
+    }
+  },
+  "Components": {
+    "tanstack": {
+      "defaultError": "Échec de la récupération des données! Veuillez vérifier votre connexion et réessayer."
+    },
+    "avatar": {
+      "feedback": {
+        "notification": {
+          "seenError": "Échec du marquage de la notification comme lue!",
+          "seenAllError": "Échec du marquage de toutes les notifications comme lues!",
+          "deleteError": "Échec de la suppression de la notification!",
+          "deleteAllError": "Échec de la suppression de toutes les notifications!"
+        }
+      }
+    },
+    "footer": {
+      "copyright": { "allRightsReserved": "Tous droits réservés." },
+      "links": {
+        "legalSupport": {
+          "title": "Mentions légales & support",
+          "row1": { "label": "Politique de confidentialité" }
+        },
+        "information": {
+          "title": "Information",
+          "row1": { "label": "Politique de confidentialité" }
+        }
+      }
+    },
+    "form": {
+      "validation": {
+        "defaultRequired": "Veuillez entrer un(e) {label} valide!",
+        "defaultMinLength": "Le nombre minimum de caractères autorisés est de {label}!",
+        "defaultMaxLength": "Le nombre maximum de caractères autorisés est de {label}!",
+        "defaultRegex": "Cette valeur ne correspond pas à l'expression régulière {label}!",
+        "default": "Veuillez entrer un(e) {label} valide!",
+        "required": "Ce champ est obligatoire",
+        "email": "Veuillez entrer une adresse email valide",
+        "number": "Veuillez entrer un nombre valide",
+        "phone": "Veuillez entrer un numéro de téléphone valide",
+        "password": "Veuillez entrer un mot de passe valide",
+        "passwordMatch": "Les mots de passe ne correspondent pas",
+        "invalidName": "Veuillez entrer un nom valide",
+        "invalidDate": "Veuillez entrer une date valide",
+        "invalidTime": "Veuillez entrer une heure valide",
+        "invalidDateTime": "Veuillez entrer une date et une heure valides",
+        "invalidYear": "Veuillez entrer une année valide",
+        "invalidMonth": "Veuillez entrer un mois valide",
+        "invalidDay": "Veuillez entrer un jour valide",
+        "invalidHour": "Veuillez entrer une heure valide",
+        "invalidMinute": "Veuillez entrer une minute valide",
+        "invalidSecond": "Veuillez entrer une seconde valide",
+        "invalidColor": "Veuillez entrer une couleur valide",
+        "invalidUrl": "Veuillez entrer une URL valide"
+      },
+      "select": { "add": "Ajouter {label}", "update": "Mettre à jour {label}" }
+    },
+    "template": { "contentTable": {} },
+    "result": {
+      "default": {
+        "title": "Échec de la récupération des données!",
+        "description": "Veuillez vérifier votre connexion et réessayer."
+      },
+      "forbidden": {
+        "title": "Permissions invalides!",
+        "description": "Veuillez vérifier vos permissions pour accéder à cette page et réessayer."
+      }
+    },
+    "section": {
+      "contact": {},
+      "notification": {
+        "title": "Chargement...",
+        "subtitle": "Veuillez patienter..."
+      },
+      "preloadFailed": {
+        "title": "Échec de la récupération des données!",
+        "subtitle": "Veuillez vérifier votre connexion et réessayer."
+      }
+    }
+  },
+  "Pages": {
+    "preloadInvalidYear": {
+      "title": "Aucune année académique disponible pour votre école",
+      "subtitle": "Nous n'avons trouvé aucune année académique disponible pour votre école. Veuillez vous pré-inscrire en tant qu'étudiant, ou si vous êtes enseignant/parent, contactez-nous."
+    },
+    "notFound": {
+      "title": "Oups!",
+      "subtitle": "Désolé, la page que vous avez visitée n'existe pas."
+    },
+    "about": {
+      "title": "En savoir plus sur nous",
+      "row1": {
+        "groupName": "Qui sommes-nous",
+        "line1": "Nous sommes une équipe technologique axée sur l'éducation, dédiée à la création d'outils sur lesquels les écoles peuvent compter au quotidien.",
+        "line2": "Notre plateforme rassemble les flux de travail académiques essentiels : dossiers d'étudiants, emplois du temps, évaluations, communications et rapports.",
+        "line3": "Nous croyons en la confidentialité dès la conception, à une utilisation responsable des données et à une communication respectueuse avec tous les membres de la communauté scolaire.",
+        "line4": "Nous travaillons en étroite collaboration avec les acteurs de l'éducation pour comprendre les défis du monde réel et offrir des solutions pratiques et conviviales.",
+        "line5": "Notre culture valorise la fiabilité, l'empathie et l'impact : chaque fonctionnalité que nous créons répond à un besoin éducatif clair."
+      },
+      "row2": {
+        "groupName": "Notre Mission",
+        "line1": "Notre mission est de simplifier et d'améliorer les opérations scolaires en connectant les administrateurs, les enseignants, les étudiants et les parents via une plateforme unifiée, fiable et intuitive.",
+        "line2": "Nous visons à améliorer les résultats d'apprentissage et l'engagement communautaire en fournissant des informations précises et opportunes, et en rationalisant les processus académiques.",
+        "line3": "Nous nous concentrons sur la transparence et la confiance, en veillant à ce que la communication concernant les examens, les résultats et les demandes académiques soit claire, accessible et sécurisée.",
+        "line4": "Nous nous engageons à une amélioration continue, à l'écoute de nos utilisateurs et à l'innovation de fonctionnalités qui rendent la vie scolaire plus simple et plus efficace."
+      },
+      "row3": {
+        "groupName": "Ce que nous offrons",
+        "line1": "Gestion académique centralisée : classes, emplois du temps, examens, résultats, bulletins scolaires et demandes des étudiants en un seul endroit.",
+        "line2": "Messagerie sécurisée et notifications pour les événements importants, y compris les horaires d'examen, les résultats et les mises à jour administratives.",
+        "line3": "Accès basé sur les rôles pour les administrateurs, les enseignants, les étudiants et les parents, garantissant que la bonne information parvient aux bonnes personnes.",
+        "line4": "Outils d'analyse et de rapport qui aident à suivre les performances et à prendre des décisions académiques éclairées.",
+        "line5": "Une expérience conviviale sur le web et mobile, conçue pour la rapidité, la clarté et l'accessibilité.",
+        "line6": "Intégrations flexibles avec des canaux de messagerie tels que WhatsApp et Telegram pour des notifications vérifiées et basées sur le consentement.",
+        "line7": "Support dédié et intégration pour aider les institutions à configurer et à adopter la plateforme efficacement."
+      }
+    },
+    "policy": {
+      "title": "Politique & confidentialité",
+      "row1": {
+        "groupName": "Politique de confidentialité",
+        "line1": "Nous ne collectons que les données nécessaires pour fournir et améliorer nos services de gestion scolaire, personnaliser l'expérience et communiquer les mises à jour académiques importantes.",
+        "line2": "Les données personnelles traitées peuvent inclure : le nom, l'email, le numéro de téléphone, le rôle (étudiant/parent/personnel), les détails de la classe ou du programme, les identifiants pour les plateformes de messagerie (ex. : numéro WhatsApp, ID utilisateur Telegram) et les journaux d'audit.",
+        "line3": "Nous utilisons des cookies techniques et des technologies similaires strictement pour la sécurité, la gestion de session et l'analyse des performances du service ; aucun suivi inutile n'est effectué.",
+        "line4": "Les données de paiement ou financières, le cas échéant, sont traitées en toute sécurité par des prestataires de paiement agréés et ne sont pas stockées sur nos serveurs au-delà de ce qui est nécessaire pour la comptabilité et la conformité.",
+        "line5": "Nous partageons des données avec des prestataires de services essentiels (hébergement, messagerie, analyse, support) dans le cadre de contrats exigeant la confidentialité, la sécurité et le traitement des données uniquement sur nos instructions.",
+        "line6": "Nous pouvons divulguer des données lorsque la loi, une décision de justice l'exige, ou pour protéger les droits, la sécurité ou l'intégrité du service.",
+        "line7": "Les utilisateurs peuvent demander l'accès, la correction, la suppression, la portabilité (le cas échéant), et peuvent s'opposer ou restreindre certains traitements comme le permet la loi.",
+        "line8": "Nous mettons en œuvre des mesures de protection administratives, techniques et physiques adaptées à la sensibilité des données ; cependant, aucune méthode de transmission ou de stockage n'est totalement sécurisée.",
+        "line9": "Les données ne sont conservées que le temps nécessaire aux fins indiquées, aux obligations légales, à la résolution des litiges et aux intérêts commerciaux légitimes, après quoi elles sont supprimées ou anonymisées de manière sécurisée.",
+        "line10": "Les liens vers des sites ou services externes sont fournis à titre de commodité ; leurs pratiques sont régies par leurs propres politiques, qui doivent être examinées séparément.",
+        "line11": "Nous pouvons mettre à jour cette politique ; les changements importants seront communiqués via le service ou par d'autres moyens raisonnables, avec la date d'entrée en vigueur indiquée.",
+        "line12": "Confidentialité des enfants : Le service est destiné à être utilisé dans un contexte éducatif sous surveillance appropriée ; le consentement des parents/tuteurs est obtenu lorsque requis par la loi applicable.",
+        "line13": "Transferts internationaux : Lorsque des données sont transférées à travers les frontières, nous nous appuyons sur des garanties appropriées (telles que des clauses contractuelles) pour protéger les données personnelles."
+      },
+      "row2": {
+        "groupName": "Whatsapp",
+        "line1": "Objet : La messagerie WhatsApp est utilisée uniquement pour envoyer des notifications académiques importantes, y compris les horaires d'examen, les résultats d'examen, les bulletins scolaires et les réponses aux demandes de services des étudiants.",
+        "line2": "Base juridique et consentement : Nous utilisons un flux de consentement basé sur l'OTP ; les messages ne sont envoyés qu'après que l'utilisateur (ou le tuteur autorisé) a donné son consentement vérifiable via OTP.",
+        "line3": "Données traitées : numéro de téléphone, contenu du message, horodatages, statut de livraison et métadonnées de vérification OTP limitées à ce qui est nécessaire pour l'envoi et l'audit des communications.",
+        "line4": "Conservation : Nous stockons la preuve OTP (référence du code ou jeton, statut du consentement et date/heure) dans notre base de données comme preuve de consentement, et conservons les journaux de messages pour la conformité et le dépannage pendant une période limitée.",
+        "line5": "Restrictions : Aucun contenu marketing ou promotionnel n'est envoyé via WhatsApp.",
+        "line6": "Sécurité : Les données en transit utilisent le chiffrement de la plateforme ; nous appliquons des contrôles d'accès et des principes de moindre privilège aux preuves de consentement stockées et aux journaux.",
+        "line7": "Tiers : WhatsApp et toute passerelle de messagerie intégrée agissent comme des sous-traitants/canaux de transmission ; ils traitent les données selon leurs propres conditions et normes de sécurité.",
+        "line8": "Contrôle : Les utilisateurs peuvent retirer leur consentement ou se désabonner des notifications WhatsApp à tout moment en utilisant les paramètres fournis ou en contactant le support ; nous cessons alors tout envoi de messages WhatsApp, à l'exception des avis légalement requis."
+      },
+      "row3": {
+        "groupName": "Télégramme",
+        "line1": "Objectif : L'API du bot Telegram est utilisée uniquement pour les notifications académiques importantes telles que les horaires d'examens, les résultats, les bulletins scolaires et les réponses aux demandes des étudiants.",
+        "line2": "Base légale et consentement : Le consentement est recueilli via une interaction avec le bot et/ou une vérification par OTP ; les messages ne sont envoyés qu'après l'enregistrement d'un consentement vérifiable.",
+        "line3": "Données traitées : ID d'utilisateur Telegram ou ID de chat, contenu des messages, horodatages, statut de livraison et métadonnées minimales nécessaires aux opérations et à l'audit du bot.",
+        "line4": "Rétention : Nous stockons les preuves de consentement (y compris l'enregistrement et la date/heure de l'OTP ou de l'opt-in du bot) et des journaux de messages limités pour des raisons de conformité, avec des périodes de rétention définies.",
+        "line5": "Restrictions : Aucune campagne de marketing ou promotionnelle n'est menée via Telegram ; les communications restent strictement informationnelles et éducatives.",
+        "line6": "Sécurité : Nous protégeons les identifiants et les journaux stockés avec des contrôles d'accès et un chiffrement au repos, le cas échéant ; les messages sont transmis via l'infrastructure de Telegram.",
+        "line7": "Tiers : Telegram traite les données selon ses propres termes et mesures de sécurité ; notre bot utilise uniquement les autorisations nécessaires pour livrer les messages.",
+        "line8": "Contrôle : Les utilisateurs peuvent révoquer l'accès du bot ou se désabonner des notifications Telegram à tout moment ; en cas de retrait, nous cessons d'envoyer des messages Telegram, sauf si la loi l'exige."
+      }
+    },
+    "home": {
+      "menus": {
+        "home": "Accueil",
+        "directors": "Directeurs",
+        "teachers": "Enseignants",
+        "students": "Étudiants",
+        "parents": "Parents"
+      },
+      "hero": {
+        "title": "Gestion scolaire simple, à tout moment, n'importe où",
+        "description": "Gérez facilement les écoles avec une plateforme tout-en-un conçue pour une éducation transparente",
+        "buttonLoading": "Chargement...",
+        "buttonDashboard": "Tableau de bord",
+        "buttonSignIn": "Se connecter",
+        "buttonHelp": "Commencer",
+        "image": "/assets/images/pages/home/hero.png"
+      },
+      "heroBenefits": {
+        "title": "Avantages",
+        "subtitle": "Le choix intelligent pour votre école",
+        "description": "Tout ce dont vous avez besoin pour simplifier, augmenter la productivité et maintenir votre équipe alignée",
+        "buttonLearnMore": "En savoir plus",
+        "cardManagement": {
+          "title": "Gestion",
+          "description": "Améliorez l'efficacité et la transparence de votre école avec notre système de gestion scolaire robuste. Gérez le personnel, suivez les progrès des élèves et rationalisez les opérations.",
+          "actionLabel": "En savoir plus",
+          "actionHref": "#contact"
+        },
+        "cardForum": {
+          "title": "Forums",
+          "description": "Notre fonctionnalité de forum favorise une communauté dynamique où les étudiants et les enseignants peuvent se connecter, partager des idées et collaborer sur des projets.",
+          "actionLabel": "En savoir plus",
+          "actionHref": "#contact"
+        },
+        "cardMeeting": {
+          "title": "Réunions",
+          "description": "Permet aux enseignants et aux étudiants de planifier et de gérer facilement des sessions individuelles ou de groupe, ce qui facilite la réservation, la confirmation et les rappels aux utilisateurs.",
+          "actionLabel": "En savoir plus",
+          "actionHref": "#contact"
+        }
+      },
+      "heroDirector": {
+        "title": "Directeurs",
+        "card1": {
+          "title": "Gérer les écoles",
+          "description": "Notre plateforme permet aux directeurs d'école de se connecter en toute sécurité et de gérer efficacement leurs institutions. Grâce à une interface conviviale, ils peuvent superviser les tâches administratives, suivre les performances et rationaliser la communication au sein de l'école. Tous les outils sont conçus pour améliorer l'efficacité opérationnelle et soutenir la prise de décision éclairée."
+        },
+        "card2": {
+          "title": "Gérer les enseignants",
+          "description": "Gérez facilement le personnel, y compris les enseignants. Ils peuvent surveiller les horaires, suivre les performances et gérer efficacement les affectations du personnel. Cette fonctionnalité rationalise les flux de travail administratifs et favorise une meilleure coordination au sein de l'école."
+        }
+      },
+      "heroParent": {
+        "title": "Parents",
+        "card1": {
+          "title": "Toujours informé",
+          "subtitle": "Enfants, programme et cours",
+          "description1": "Inscrivez-vous pour accéder à votre tableau de bord parental personnalisé",
+          "description2": "Sélectionnez et associez facilement vos enfants à votre compte",
+          "description3": "Affichez tous leurs détails académiques en un seul endroit",
+          "description4": "Restez informé des progrès et des activités uniques de chaque enfant",
+          "image": "/assets/images/pages/home/parent-1.png",
+          "buttonHref": "/help",
+          "button": "En savoir plus"
+        },
+        "card2": {
+          "title": "Succès",
+          "subtitle": "Examens, quiz et résultats",
+          "description1": "Suivez sans effort les horaires d'examens et de quiz de votre enfant",
+          "description2": "Accédez instantanément à leurs résultats et à leurs rapports de performance",
+          "description3": "Recevez des notifications en cas d'examens manqués ou de notes faibles",
+          "description4": "Restez engagé grâce à un système de communication parent-enseignant fluide",
+          "image": "/assets/images/pages/home/parent-2.jpg",
+          "buttonHref": "/help",
+          "button": "En savoir plus"
+        }
+      },
+      "heroStatistics": {
+        "schools": "Écoles",
+        "teachers": "Enseignants",
+        "students": "Étudiants",
+        "parents": "Parents"
+      },
+      "heroStudent": {
+        "title": "Étudiants",
+        "card1": {
+          "title": "Programmes",
+          "description": "Gérez vos programmes académiques avec facilité. Accédez aux détails des cours, aux horaires et aux mises à jour importantes, le tout en un seul endroit."
+        },
+        "card2": {
+          "title": "Cours",
+          "description": "Suivez vos cours facilement. Accédez aux horaires, aux supports et aux mises à jour pour rester à la pointe de vos études."
+        },
+        "card3": {
+          "title": "Réunions & forum",
+          "description": "Ne manquez jamais une session et restez à jour sur les discussions et annonces clés."
+        },
+        "card4": {
+          "title": "Examens & résultats",
+          "description": "Suivez de près vos horaires d'examens et vos résultats. Obtenez des mises à jour en temps opportun sur les notes et les progrès pour rester au top de vos études."
+        }
+      },
+      "heroTeacher": {
+        "title": "Enseignants",
+        "description": "Les enseignants peuvent facilement se connecter à la plateforme pour accéder à un large éventail d'outils conçus pour améliorer la gestion de leur classe et leur interaction avec les élèves. Une fois connectés, ils peuvent consulter leurs horaires de cours, suivre la présence et surveiller les performances des élèves grâce à des rapports détaillés.",
+        "card1": {
+          "image": "/assets/images/pages/home/teacher-student.jpg",
+          "title": "Élèves/Étudiants",
+          "description": "Notre système de gestion des élèves simplifie les tâches administratives et fournit des informations précieuses sur les performances des élèves."
+        },
+        "card2": {
+          "image": "/assets/images/pages/home/teacher-course.jpg",
+          "title": "Cours",
+          "description": "Simplifie le processus de création, de gestion et de suivi des cours."
+        },
+        "card3": {
+          "image": "/assets/images/pages/home/teacher-meet.jpg",
+          "title": "Réunions & forum",
+          "description": "Plateforme centralisée pour organiser et faciliter les réunions et les discussions au sein de votre communauté scolaire."
+        },
+        "card4": {
+          "image": "/assets/images/pages/home/teacher-exam.jpg",
+          "title": "Examens & quiz",
+          "description": "Simplifie le processus de création, de gestion et de suivi des examens et des quiz."
+        }
+      }
+    },
+    "homeSchool": {
+      "menus": {
+        "home": "Accueil",
+        "preEnroll": "Pré-inscription",
+        "explore": "Explorer"
+      },
+      "hero": {
+        "title": "Bienvenue sur le portail en ligne {appName}",
+        "description": "Nous sommes heureux de vous accueillir! Veuillez vous connecter pour accéder à vos ressources et aux mises à jour de l'école."
+      }
+    },
+    "help": {
+      "hero": {
+        "title": "Bonjour, et bienvenue sur {label}. Comment pouvons-nous vous aider ?"
+      },
+      "segmentFaq": {
+        "title": "Trouvez des réponses aux questions les plus courantes sur notre plateforme",
+        "director": {
+          "row1": {
+            "title": "Comment gérer le personnel ?",
+            "description": "En tant que directeur, vous pouvez ajouter, modifier et supprimer des membres du personnel (enseignants, administration, etc.) via la section Gestion du personnel. Vous pourrez également attribuer des rôles et gérer les accès."
+          },
+          "row2": {
+            "title": "Comment gérer les enseignants ?",
+            "description": "La section Gestion des enseignants vous permet de superviser tous les aspects liés à votre personnel enseignant. Cela inclut l'attribution des cours, la gestion de leurs horaires, le suivi de leurs performances et la gestion du développement professionnel."
+          },
+          "row3": {
+            "title": "Comment gérer les étudiants ?",
+            "description": "Dans la Gestion des étudiants, vous pouvez inscrire de nouveaux étudiants, mettre à jour leurs informations, suivre leur présence, gérer leurs dossiers académiques et surveiller leurs progrès globaux tout au long de leur parcours dans l'établissement."
+          },
+          "row4": {
+            "title": "Comment gérer les parents ?",
+            "description": "La fonctionnalité Gestion des parents vous permet de maintenir à jour les informations de contact des parents, de gérer les préférences de communication et de faciliter l'accès aux rapports de progrès des étudiants et aux annonces de l'école."
+          },
+          "row5": {
+            "title": "Comment créer et gérer les années académiques ?",
+            "description": "La section Années académiques vous permet de créer de nouvelles années académiques, de définir leurs dates de début et de fin, et de les activer ou de les désactiver. Cela inclut la mise en place des niveaux et des classes pour chaque année."
+          },
+          "row6": {
+            "title": "Comment organiser les cours et les niveaux académiques ?",
+            "description": "Dans la Configuration des cours et des niveaux, vous pouvez définir la structure des cours, les matières enseignées pour chaque niveau (Maternelle, Primaire, Secondaire, etc.) et affecter les enseignants correspondants."
+          },
+          "row7": {
+            "title": "Comment planifier et superviser les examens et les quiz ?",
+            "description": "La section Examens et évaluations vous donne un aperçu de toutes les évaluations. Ici, vous pouvez planifier les sessions d'examens, définir les grilles de notation et suivre la progression des quiz."
+          },
+          "row8": {
+            "title": "Comment gérer les réunions et les communications ?",
+            "description": "Utilisez la fonctionnalité Réunions et communications pour planifier des réunions avec le personnel, les parents ou les étudiants. Vous pouvez également envoyer des annonces et des notifications importantes."
+          },
+          "row9": {
+            "title": "Comment superviser les forums de discussion spécifiques aux cours ?",
+            "description": "La section Gestion des forums vous permet de modérer les discussions pour chaque cours. Vous pouvez créer de nouveaux sujets de conversation directement liés au contenu des cours et vous assurer que les échanges restent constructifs pour l'apprentissage des étudiants."
+          },
+          "row10": {
+            "title": "Comment gérer la publication des résultats ?",
+            "description": "Dans la Gestion des résultats, vous pouvez valider et publier les bulletins et les résultats d'examens. Vous avez un contrôle total sur la visibilité des résultats pour les étudiants et les parents."
+          },
+          "row11": {
+            "title": "Comment gérer les demandes des étudiants ?",
+            "description": "La fonctionnalité Demandes des étudiants centralise toutes les demandes des étudiants (problèmes académiques, administratifs, etc.). Vous pouvez attribuer ces demandes au personnel concerné et suivre leur résolution."
+          },
+          "row12": {
+            "title": "Comment clôturer l'année académique ?",
+            "description": "La Clôture de l'année académique est une étape cruciale. Cette fonctionnalité vous permet de finaliser les résultats, d'archiver les données de l'année en cours et de préparer la transition vers la nouvelle année scolaire."
+          }
+        }
+      },
+      "segmentStart": {
+        "title": "Commencer",
+        "director": {
+          "row1": {
+            "title": "Tableau de bord général de l'école",
+            "description": "Votre centre de contrôle pour superviser toutes les activités administratives et académiques de l'école. Connectez-vous, créez et communiquez sans effort entre tous les départements."
+          },
+          "row2": {
+            "title": "Gestion du personnel",
+            "description": "Ajoutez, modifiez et supprimez facilement des membres du personnel, attribuez des rôles et gérez les autorisations d'accès pour un flux de travail rationalisé."
+          },
+          "row3": {
+            "title": "Gestion des enseignants",
+            "description": "Supervisez tous les aspects liés à votre personnel enseignant, y compris les attributions de cours, la gestion des horaires, le suivi des performances et le développement professionnel."
+          },
+          "row4": {
+            "title": "Gestion des étudiants",
+            "description": "Inscrivez de nouveaux étudiants, mettez à jour leurs informations, suivez la présence, gérez les dossiers académiques et surveillez les progrès globaux."
+          },
+          "row5": {
+            "title": "Gestion des parents",
+            "description": "Maintenez à jour les informations de contact des parents, gérez les préférences de communication et facilitez l'accès aux rapports de progrès des étudiants et aux annonces de l'école."
+          },
+          "row6": {
+            "title": "Gestion des années académiques",
+            "description": "Créez de nouvelles années académiques, définissez leurs dates de début et de fin, et mettez en place la structure académique, y compris les niveaux et les classes."
+          },
+          "row7": {
+            "title": "Configuration des cours et des niveaux",
+            "description": "Définissez la structure des cours de l'école, les matières enseignées pour chaque niveau académique (Maternelle, Primaire, Secondaire, etc.) et affectez les enseignants en conséquence."
+          },
+          "row8": {
+            "title": "Supervision des examens et quiz",
+            "description": "Obtenez un aperçu complet de toutes les évaluations. Planifiez les sessions d'examens, définissez les grilles de notation et suivez la progression des quiz dans toute l'école."
+          },
+          "row9": {
+            "title": "Publication des résultats et des notes",
+            "description": "Validez et publiez efficacement les notes et les résultats d'examens des étudiants. Vous avez un contrôle total sur la visibilité de ces résultats pour les étudiants et les parents."
+          },
+          "row10": {
+            "title": "Réunions et communications",
+            "description": "Planifiez et gérez les réunions avec le personnel, les parents et les étudiants. Envoyez des annonces et des notifications importantes à l'échelle de l'école pour assurer une communication efficace."
+          },
+          "row11": {
+            "title": "Supervision des forums spécifiques aux cours",
+            "description": "Modérez les discussions au sein des forums spécifiques aux cours. Créez de nouveaux sujets de conversation liés au contenu des cours et assurez un engagement constructif pour l'apprentissage des étudiants."
+          },
+          "row12": {
+            "title": "Demandes de problèmes des étudiants",
+            "description": "Centralisez et gérez toutes les demandes et les requêtes des étudiants, telles que les clarifications académiques ou les problèmes administratifs. Attribuez les demandes au personnel concerné et suivez leur résolution."
+          },
+          "row13": {
+            "title": "Clôture de l'année académique",
+            "description": "Une étape critique pour finaliser les résultats, archiver les données de l'année en cours et préparer en douceur la transition vers la nouvelle année scolaire."
+          }
+        }
+      }
+    },
+    "helpSchool": {
+      "hero": {
+        "title": "Bonjour, et bienvenue sur {label}. Comment pouvons-nous vous aider ?"
+      },
+      "segmentFaq": {
+        "title": "Trouvez des réponses aux questions les plus courantes sur notre plateforme",
+        "teacher": {
+          "row1": {
+            "title": "Comment gérer mes classes ?",
+            "description": "Depuis votre tableau de bord Enseignant, vous pouvez gérer sans effort vos classes. Cela inclut l'ajout ou la suppression d'étudiants, la consultation des listes de classe et la configuration d'annonces spécifiques à la classe."
+          },
+          "row2": {
+            "title": "Comment créer et gérer des cours ?",
+            "description": "Accédez à la section Cours sur votre tableau de bord. Ici, vous pouvez créer de nouveaux cours, télécharger des programmes, partager des notes de cours et organiser tous vos supports d'apprentissage pour chaque classe."
+          },
+          "row3": {
+            "title": "Comment puis-je créer et planifier des examens et des quiz ?",
+            "description": "Dans la section Examens & quiz, vous pouvez concevoir et planifier diverses évaluations. Cela inclut la définition de formats personnalisés, la définition de grilles de notation et l'attribution de dates d'échéance."
+          },
+          "row4": {
+            "title": "Comment enregistrer et publier les résultats des étudiants ?",
+            "description": "Utilisez la fonctionnalité Résultats & notes pour saisir, calculer et publier efficacement les notes et les scores d'examens des étudiants. Cela garantit un retour d'information rapide et transparent pour vos étudiants."
+          },
+          "row5": {
+            "title": "Comment gérer les demandes des étudiants et des parents ?",
+            "description": "La section Demandes des étudiants vous permet de gérer et de répondre directement aux demandes des étudiants et des parents. Cela inclut les demandes de clarification des notes, les prolongations de devoirs ou les informations générales."
+          },
+          "row6": {
+            "title": "Comment planifier mon emploi du temps et mes leçons ?",
+            "description": "L'outil de Planification de classe vous aide à développer et à gérer vos horaires de classe, à créer des plans de cours détaillés et à organiser toutes les ressources d'enseignement nécessaires pour une exécution sans faille."
+          },
+          "row7": {
+            "title": "Comment puis-je m'impliquer dans les événements scolaires ?",
+            "description": "Restez à jour et contribuez aux événements scolaires, aux réunions parents-enseignants et aux ateliers académiques via la section Coordination des événements."
+          },
+          "row8": {
+            "title": "Comment suivre les performances et les niveaux académiques des étudiants ?",
+            "description": "Utilisez la fonctionnalité Suivi des performances pour surveiller les progrès et les niveaux académiques des étudiants. Cela vous aide à identifier les domaines à améliorer et à offrir un soutien personnalisé à vos étudiants."
+          }
+        },
+        "student": {
+          "row1": {
+            "title": "Comment m'inscrire à des cours ?",
+            "description": "Vous pouvez facilement vous inscrire aux cours de votre choix via la section Inscription. Suivez le processus d'inscription simple et vous recevrez des notifications une fois que vous serez accepté dans les programmes que vous avez choisis."
+          },
+          "row2": {
+            "title": "Comment puis-je accéder à mes supports de cours ?",
+            "description": "Une fois connecté, accédez à la section Cours sur votre tableau de bord Étudiant. Ici, vous pouvez consulter vos cours inscrits et accéder à tous les supports de cours, lectures et contenus multimédias à tout moment, n'importe où."
+          },
+          "row3": {
+            "title": "Comment puis-je passer des examens et des quiz ?",
+            "description": "Les examens et les quiz planifiés apparaîtront dans la section Examens & quiz de votre tableau de bord. Vous pouvez les passer directement dans l'application et souvent recevoir un retour d'information instantané sur vos performances."
+          },
+          "row4": {
+            "title": "Comment vérifier mes notes et mes résultats ?",
+            "description": "Votre section Notes & résultats fournit une ventilation détaillée de vos dernières notes, scores d'examens et de votre statut académique général, vous permettant de suivre efficacement vos progrès."
+          },
+          "row5": {
+            "title": "Comment puis-je soumettre une demande d'aide ou pour résoudre un problème ?",
+            "description": "Si vous avez un problème ou avez besoin d'aide, utilisez la fonctionnalité Demandes de problèmes pour soumettre une demande directement à vos enseignants ou à l'administration de l'école."
+          },
+          "row6": {
+            "title": "Comment planifier mon emploi du temps académique ?",
+            "description": "L'outil de Planification académique vous permet de visualiser vos horaires de cours quotidiens et hebdomadaires, de gérer les délais de devoirs et de planifier efficacement votre temps d'étude pour rester organisé."
+          },
+          "row7": {
+            "title": "Comment rester informé des événements scolaires ?",
+            "description": "Restez à jour sur les événements scolaires importants, les calendriers académiques et les activités parascolaires via la section Événements scolaires de votre tableau de bord."
+          },
+          "row8": {
+            "title": "Comment puis-je suivre mes progrès académiques ?",
+            "description": "La fonctionnalité Suivi des progrès vous aide à suivre votre niveau académique et vos progrès dans chaque matière, vous assurant d'atteindre vos objectifs éducatifs et d'identifier les domaines à améliorer."
+          }
+        },
+        "parent": {
+          "row1": {
+            "title": "Comment lier mes enfants à mon compte ?",
+            "description": "Après vous être connecté pour la première fois, vous pouvez facilement lier et gérer tous les profils de vos enfants à partir d'un seul compte en les recherchant et en les sélectionnant dans le répertoire des étudiants."
+          },
+          "row2": {
+            "title": "Comment puis-je surveiller les notes et les résultats de mes enfants ?",
+            "description": "Votre tableau de bord parental donne accès à Notes & résultats où vous pouvez surveiller les performances académiques de vos enfants, y compris les notes de matière individuelles et les scores d'examens."
+          },
+          "row3": {
+            "title": "Comment puis-je suivre la présence de mes enfants ?",
+            "description": "Dans la section Suivi des présences, vous pouvez garder un œil sur les dossiers de présence de vos enfants et recevoir des alertes en temps réel pour toute absence ou retard."
+          },
+          "row4": {
+            "title": "Comment puis-je communiquer avec les enseignants ou l'école ?",
+            "description": "La fonctionnalité Communication & demandes vous permet d'envoyer des messages directement aux enseignants de vos enfants et à l'administration de l'école, et de soumettre toute demande concernant leur éducation."
+          },
+          "row5": {
+            "title": "Comment rester informé des événements et de la planification de l'école ?",
+            "description": "La section Événement & planification vous tient informé des événements scolaires importants, du calendrier académique, des vacances et des horaires des conférences parents-enseignants."
+          },
+          "row6": {
+            "title": "Comment puis-je voir les progrès académiques de mes enfants ?",
+            "description": "La fonctionnalité Progrès académique vous permet de visualiser les niveaux académiques actuels et les progrès globaux de vos enfants, vous aidant à soutenir leur parcours éducatif de manière efficace."
+          },
+          "row7": {
+            "title": "Comment gérer les paiements des frais de scolarité et les frais ?",
+            "description": "Accédez à la section Gestion des frais pour afficher et gérer les paiements des frais de scolarité, les frais scolaires et tout solde impayé pour vos enfants directement via l'application."
+          }
+        }
+      },
+      "segmentStart": {
+        "title": "Passez à l'étape suivante en sélectionnant un rôle",
+        "teacher": {
+          "row1": {
+            "title": "Aperçu du tableau de bord de l'enseignant",
+            "description": "Votre centre de contrôle pour gérer toutes les activités académiques. Connectez-vous, créez et communiquez sans effort."
+          },
+          "row2": {
+            "title": "Gestion des cours",
+            "description": "Créez de nouveaux cours, téléchargez des programmes, partagez des notes de cours et organisez tous les supports d'apprentissage pour vos classes."
+          },
+          "row3": {
+            "title": "Création d'examens et de quiz",
+            "description": "Concevez et planifiez diverses évaluations, y compris des examens et des quiz, avec des formats personnalisables et des grilles de notation."
+          },
+          "row4": {
+            "title": "Résultats et notation",
+            "description": "Saisissez, calculez et publiez efficacement les notes et les résultats d'examens des étudiants, garantissant un retour d'information rapide."
+          },
+          "row5": {
+            "title": "Demandes des étudiants",
+            "description": "Gérez et répondez aux demandes des étudiants, telles que les clarifications de notes ou les prolongations de devoirs."
+          },
+          "row6": {
+            "title": "Planification de classe",
+            "description": "Développez et gérez vos horaires de classe, vos plans de cours et vos ressources d'enseignement pour une exécution sans faille."
+          },
+          "row7": {
+            "title": "Coordination des événements",
+            "description": "Restez à jour et contribuez aux événements scolaires, aux réunions parents-enseignants et aux ateliers académiques."
+          },
+          "row8": {
+            "title": "Suivi des performances",
+            "description": "Surveillez les progrès et les niveaux académiques des étudiants, en identifiant les domaines à améliorer et en offrant un soutien personnalisé."
+          }
+        },
+        "student": {
+          "row1": {
+            "title": "Aperçu du tableau de bord de l'étudiant",
+            "description": "Votre portail académique personnalisé. Inscrivez-vous, suivez vos progrès et accédez à toutes vos ressources d'apprentissage."
+          },
+          "row2": {
+            "title": "Inscription et acceptation",
+            "description": "Inscrivez-vous facilement à des cours et recevez des notifications une fois que vous êtes accepté dans vos programmes."
+          },
+          "row3": {
+            "title": "Accès aux cours",
+            "description": "Consultez vos cours inscrits, accédez aux supports de cours, aux lectures et au contenu multimédia à tout moment, n'importe où."
+          },
+          "row4": {
+            "title": "Examens et quiz",
+            "description": "Passez les examens et les quiz planifiés directement dans l'application et recevez un retour d'information instantané sur vos performances."
+          },
+          "row5": {
+            "title": "Notes et résultats",
+            "description": "Vérifiez vos dernières notes, scores d'examens et votre statut académique général avec des ventilations détaillées."
+          },
+          "row6": {
+            "title": "Demandes de problèmes",
+            "description": "Soumettez des demandes d'aide ou pour résoudre des problèmes académiques directement à vos enseignants ou à l'administration."
+          },
+          "row7": {
+            "title": "Planification académique",
+            "description": "Visualisez vos horaires de cours quotidiens et hebdomadaires, gérez les délais de devoirs et planifiez votre temps d'étude efficacement."
+          },
+          "row8": {
+            "title": "Événements scolaires",
+            "description": "Restez informé des événements scolaires importants, des calendriers académiques et des activités parascolaires."
+          },
+          "row9": {
+            "title": "Suivi des progrès",
+            "description": "Suivez votre niveau académique et vos progrès dans chaque matière, vous assurant d'atteindre vos objectifs éducatifs."
+          }
+        },
+        "parent": {
+          "row1": {
+            "title": "Aperçu du tableau de bord parental",
+            "description": "Une vue complète du parcours académique de vos enfants. Connectez-vous, surveillez et engagez-vous avec l'école."
+          },
+          "row2": {
+            "title": "Liaison d'étudiants",
+            "description": "Liez et gérez facilement tous les profils de vos enfants à partir d'un seul compte."
+          },
+          "row3": {
+            "title": "Notes et résultats",
+            "description": "Surveillez les notes, les résultats d'examens et les performances académiques de vos enfants dans toutes les matières."
+          },
+          "row4": {
+            "title": "Suivi des présences",
+            "description": "Gardez un œil sur les dossiers de présence de vos enfants et recevez des alertes en cas d'absences ou de retards."
+          },
+          "row5": {
+            "title": "Communication et demandes",
+            "description": "Envoyez des messages aux enseignants et à l'administration de l'école, et soumettez des demandes concernant l'éducation de vos enfants."
+          },
+          "row6": {
+            "title": "Événement et planification",
+            "description": "Restez informé des événements scolaires importants, des calendriers académiques, des vacances et des conférences parents-enseignants."
+          },
+          "row7": {
+            "title": "Progrès académiques",
+            "description": "Visualisez les niveaux académiques actuels et les progrès globaux de vos enfants, vous aidant à soutenir leur parcours éducatif."
+          },
+          "row8": {
+            "title": "Gestion des frais",
+            "description": "Accédez et gérez les paiements de frais de scolarité, les frais scolaires et tout solde impayé pour vos enfants."
+          }
+        }
+      }
+    },
+    "preEnroll": {
+      "success": {
+        "title": "Félicitations pour votre inscription!",
+        "description": "Veuillez vérifier votre email pour voir le statut de votre demande et, si elle est acceptée, trouver vos identifiants de connexion."
+      },
+      "class": {
+        "title": "Liste des classes à pré-inscrire",
+        "warning": "Vous n'êtes pas autorisé à vous pré-inscrire"
+      },
+      "levelDomain": {
+        "title": "Liste des domaines de niveau à pré-inscrire",
+        "warning": "Vous n'êtes pas autorisé à vous pré-inscrire"
+      }
+    },
+    "disabled": {
+      "user": {
+        "title": "Votre compte a été désactivé",
+        "description": "Nous sommes désolés de vous informer que votre compte a été désactivé. Si vous avez des questions ou des préoccupations, veuillez contacter notre équipe de support."
+      },
+      "school": {
+        "title": "Désactivé",
+        "description": "L'école a été désactivée par l'administrateur! Veuillez contacter l'administrateur pour la réactiver."
+      }
+    },
+    "profile": {
+      "modal": {
+        "title": {
+          "checkCode": "Vérifier le code pour la mise à jour du mot de passe",
+          "setNewPassword": "Définir un nouveau mot de passe",
+          "checkCodeChangePhoneNumber": "Vérifier le code pour mettre à jour le numéro de téléphone",
+          "changePhoneNumber": "Définir un nouveau numéro de téléphone",
+          "checkCodeChange2faEmail": "Vérifier le code pour mettre à jour l'email 2FA"
+        }
+      },
+      "form": {
+        "title": {
+          "updateProfileCheckCode": "Entrez le code reçu sur votre email"
+        },
+        "updateProfile": {
+          "avatarImage": "Image de l'avatar",
+          "userName": "Nom d'utilisateur",
+          "button": "Mettre à jour"
+        },
+        "updateProfileMessage": {
+          "label": "Mettre à jour les informations de contact",
+          "button": "Mettre à jour"
+        },
+        "updateProfilePassword": {
+          "label": "Mettre à jour le mot de passe",
+          "button": "Mettre à jour"
+        },
+        "updateProfilePhoneNumber": {
+          "label": "Mettre à jour le numéro de téléphone",
+          "button": "Mettre à jour"
+        },
+        "updateProfileMfaEmail": {
+          "label": "Mettre à jour l'email 2FA",
+          "button": "Mettre à jour"
+        }
+      },
+      "description": {
+        "profile": "Voici quelques informations sur l'utilisateur",
+        "settings": "Informations sur le MFA, les autorisations et le rôle.",
+        "message": "Informations sur les notifications et les messages des médias sociaux"
+      },
+      "feedback": {
+        "updateProfile": {
+          "success": "Profil mis à jour avec succès!",
+          "error": "Échec de la mise à jour du profil!"
+        },
+        "updateProfileMessage": {
+          "success": "Informations de contact mises à jour avec succès!",
+          "error": "Échec de la mise à jour des informations de contact!"
+        },
+        "updateProfilePasswordInit": {
+          "success": "Veuillez vérifier le code qui a été envoyé à votre email!",
+          "error": "Échec de la mise à jour du mot de passe!"
+        },
+        "updateProfilePasswordCheckCode": {
+          "success": "Entrez votre nouveau mot de passe!"
+        },
+        "updateProfilePasswordNewPassword": {
+          "success": "Mot de passe mis à jour avec succès!"
+        },
+        "updateProfilePhoneNumberInit": {
+          "success": "Veuillez vérifier le code qui a été envoyé à votre email!",
+          "error": "Échec de la mise à jour du numéro de téléphone!"
+        },
+        "updateProfilePhoneNumberCheckCode": {
+          "success": "Entrez votre nouveau numéro de téléphone!"
+        },
+        "updateProfilePhoneNumberNewPhoneNumber": {
+          "success": "Numéro de téléphone mis à jour avec succès!"
+        },
+        "updateProfileMfaEmailInit": {
+          "success": "Vous devez entrer votre email actuel!",
+          "error": "Échec de la mise à jour des paramètres de l'email 2FA!"
+        },
+        "updateProfileMfaEmailCheckCode": {
+          "success": "Paramètres de l'email 2FA mis à jour avec succès!",
+          "error": "Échec de la mise à jour des paramètres de l'email 2FA!"
+        },
+        "updateProfileSettingNotification": {
+          "error": "Échec de la mise à jour des paramètres de notification!"
+        }
+      }
+    },
+    "dashboard": {
+      "admin": {
+        "home": {
+          "newUsers": "Nouveaux utilisateurs cette année jusqu'à présent",
+          "usersByYear": "Progression des utilisateurs sur l'ensemble de la période par année"
+        }
+      }
+    },
+    "auth": {
+      "login": {
+        "title": "Se connecter",
+        "description": "Bienvenue de retour sur {label}! Veuillez saisir vos informations ci-dessous pour vous connecter.",
+        "form": {
+          "extra": {
+            "forgotPassword": "Mot de passe oublié ?",
+            "dontHaveAccount": "Vous n'avez pas de compte ?"
+          },
+          "error": {
+            "default": "Une erreur s'est produite, veuillez réessayer plus tard.",
+            "invalidEmailPassword": "Email ou mot de passe invalide! Veuillez entrer des informations valides ou réessayer plus tard si le problème persiste."
+          }
+        }
+      },
+      "register": {
+        "title": "Créer un compte",
+        "description": "Bienvenue sur {label}! Veuillez saisir vos informations ci-dessous pour vous inscrire.",
+        "form": {
+          "extra": { "alreadyHaveAccount": "Vous avez déjà un compte ?" },
+          "error": {
+            "default": "Une erreur s'est produite, veuillez réessayer plus tard.",
+            "invalidEmailPassword": "Email ou mot de passe invalide! Veuillez entrer des informations valides ou réessayer plus tard si le problème persiste."
+          }
+        }
+      },
+      "activate": {
+        "init": {
+          "title": "Activation du compte",
+          "description": "Veuillez entrer le code d'activation envoyé à votre email pour activer votre compte.",
+          "form": {
+            "extra": { "alreadyHaveAccount": "Vous avez déjà un compte ?" }
+          }
+        },
+        "alreadyHaveAccount": "Vous avez déjà un compte ?",
+        "success": {
+          "title": "Compte activé avec succès",
+          "description": "Vous pouvez maintenant accéder à toutes les fonctionnalités et profiter de nos services. Bienvenue à bord, et merci de nous avoir rejoints!"
+        },
+        "form": { "code": "Code", "button": "Activer" }
+      },
+      "error": {
+        "default": {
+          "title": "Erreur d'authentification",
+          "description": "Nous n'avons pas pu vérifier vos identifiants. Veuillez vous assurer que vous avez entré le nom d'utilisateur et le mot de passe corrects."
+        }
+      },
+      "forgot": {
+        "init": {
+          "title": "Mot de passe oublié",
+          "description": "Veuillez entrer votre email pour recevoir les instructions sur la façon de réinitialiser votre mot de passe.",
+          "form": {
+            "extra": { "alreadyHaveAccount": "Vous avez déjà un compte ?" }
+          },
+          "error": {
+            "default": "Une erreur s'est produite, veuillez réessayer plus tard.",
+            "invalidEmail": "Email invalide! Veuillez entrer des informations valides ou réessayer plus tard si le problème persiste."
+          }
+        },
+        "checkCode": {
+          "title": "Mot de passe oublié - étape 2",
+          "description": "Veuillez entrer le code qui a été envoyé à votre email pour réinitialiser votre mot de passe.",
+          "form": {
+            "extra": { "alreadyHaveAccount": "Vous avez déjà un compte ?" }
+          }
+        },
+        "newPassword": {
+          "title": "Réinitialiser le mot de passe",
+          "description": "Veuillez entrer votre nouveau mot de passe pour réinitialiser votre mot de passe.",
+          "form": {
+            "extra": { "alreadyHaveAccount": "Vous avez déjà un compte ?" }
+          }
+        },
+        "success": {
+          "title": "Mot de passe modifié avec succès",
+          "description": "Votre mot de passe a été modifié avec succès. Si vous n'avez pas effectué ce changement, veuillez contacter notre équipe de support immédiatement."
+        }
+      },
+      "logout": {
+        "title": "Déconnexion réussie",
+        "description": "Merci d'avoir utilisé {label}. Vous avez été déconnecté de votre compte avec succès. Souhaitez-vous vous reconnecter ou explorer davantage ?"
+      },
+      "invalidPermissions": {
+        "title": "Permissions invalides",
+        "description": "Cela signifie que vous n'avez pas les droits nécessaires pour accéder ou utiliser cette fonctionnalité spécifique. Cela peut être dû à votre type de compte, aux paramètres de la fonctionnalité ou à d'autres restrictions. Veuillez contacter votre administrateur si vous avez besoin d'une assistance supplémentaire."
+      },
+      "invalidSession": {
+        "title": "Délai d'expiration de la session",
+        "description": "Pour renforcer la sécurité, nous avons mis en place un délai d'expiration de session de 60 minutes à 30 jours sur tous les comptes d'utilisateurs. Cela permet de protéger les données des utilisateurs au cas où un ordinateur serait laissé sans surveillance."
+      }
+    }
+  }
+}

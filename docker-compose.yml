@@ -1,0 +1,19 @@
+services:
+  template:
+    container_name: template
+    build:
+      context: .
+      target: runner
+      dockerfile: ./docker/app/Dockerfile
+    restart: on-failure
+    env_file:
+    - ./school-front/.env
+    ports:
+      - "13000:13000"
+    networks:
+        - school-network
+
+networks:
+  school-network:
+    name: school-network
+    external: true

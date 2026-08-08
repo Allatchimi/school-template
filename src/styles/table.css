@@ -1,0 +1,6 @@
+/* Force equal column widths */
+.equal-width-table .ant-table-thead > tr > th,
+.equal-width-table .ant-table-tbody > tr > td {
+  width: 1%;
+  white-space: nowrap;
+}
