@@ -5,6 +5,7 @@ on:
   push:
     branches: [main, staging, dev]
   workflow_dispatch:
+
 jobs:
   docker-build-image:
     runs-on: ubuntu-latest
@@ -35,6 +36,14 @@ jobs:
             echo "${{ secrets.ADMIN_ENV_DEV }}" > .env
           fi
 
+      # ÉTAPE CORRIGÉE ET AVANCÉE : Connexion propre et native à GHCR
+      - name: Login to GitHub Container Registry
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Build Docker image
         run: |
           docker build ./ \
@@ -53,8 +62,7 @@ jobs:
           vuln-type: "os,library"
           severity: "MEDIUM,HIGH,CRITICAL"
 
-      - name: Login to GitHub Docker Registry
-        run: echo ${{ secrets.GHCR_PASSWORD }} | docker login ${{ env.CONTAINER_PROVIDER }} -u ${{ secrets.GHCR_USERNAME }} --password-stdin
+      # Note : L'ancienne étape "Login to GitHub Docker Registry" qui buggait a été supprimée ici
 
       - name: Push image to GitHub Docker Registry
         run: |
