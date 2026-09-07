@@ -11,7 +11,7 @@
 ### 2. Clone the repository and set the ENV file
 
 ```
-git clone https://github.com/EMENEC-FINANCE/school-admin.git
+git clone https://github.com/allatchimi/school-admin.git
 ```
 
 ```

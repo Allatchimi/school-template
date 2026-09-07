@@ -6,6 +6,11 @@ on:
     branches: [main, staging, dev]
   workflow_dispatch:
 
+# --- AJOUTEZ CE BLOC DE PERMISSIONS ICI ---
+permissions:
+  contents: read
+  packages: write
+# ------------------------------------------
 jobs:
   docker-build-image:
     runs-on: ubuntu-latest
