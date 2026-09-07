@@ -9,7 +9,7 @@ services:
     env_file:
     - ./school-front/.env
     ports:
-      - "13000:13000"
+      - "13000:3000"
     networks:
         - school-network
 
