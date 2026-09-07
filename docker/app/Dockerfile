@@ -20,6 +20,18 @@ RUN pnpm install --frozen-lockfile --ignore-scripts
 
 COPY . .
 
+# --- AJOUT : Génère un fichier .env avec des placeholders pour que Next.js ne plante pas au build ---
+RUN echo "API_BASE_URL=http://localhost:3100" >> .env && \
+    echo "CDN_URL=http://localhost:3000" >> .env && \
+    echo "NEXT_AUTH_URL=http://localhost:3000" >> .env && \
+    echo "NEXT_PUBLIC_WEBSITE_URL=http://localhost:3000" >> .env && \
+    echo "NEXT_PUBLIC_WS_URL=ws://localhost:3100" >> .env && \
+    echo "NEXT_AUTH_SECRET=placeholder_secret_for_building_purposes_only" >> .env && \
+    echo "CDN_KEY=placeholder" >> .env && \
+    echo "SCHOOL_ID=placeholder" >> .env && \
+    echo "SCHOOL_TYPE=placeholder" >> .env && \
+    echo "SCHOOL_API_KEY=placeholder" >> .env
+
 # Build
 RUN pnpm build:prod
 

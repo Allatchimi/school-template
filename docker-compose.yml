@@ -7,7 +7,7 @@ services:
       dockerfile: ./docker/app/Dockerfile
     restart: on-failure
     env_file:
-    - ./school-front/.env
+    - ./.env
     ports:
       - "13000:3000"
     networks:
