@@ -20,19 +20,18 @@ RUN pnpm install --frozen-lockfile --ignore-scripts
 
 COPY . .
 
-# --- Génère un fichier .env avec des placeholders pour que Next.js ne plante pas au build ---
-# Les variables NEXT_PUBLIC_* ne sont plus compilées dans le bundle client :
-# elles sont lues au runtime côté serveur (Server Components) ou passées via props.
-RUN echo "API_BASE_URL=http://placeholder:3100" >> .env && \
-    echo "CDN_URL=http://placeholder:3000" >> .env && \
-    echo "NEXT_AUTH_URL=http://placeholder:3000" >> .env && \
-    echo "NEXT_PUBLIC_WEBSITE_URL=http://placeholder:3000" >> .env && \
-    echo "NEXT_PUBLIC_WS_URL=ws://placeholder:3100" >> .env && \
-    echo "NEXT_AUTH_SECRET=placeholder_secret_for_building_purposes_only" >> .env && \
-    echo "CDN_KEY=placeholder" >> .env && \
-    echo "SCHOOL_ID=placeholder" >> .env && \
-    echo "SCHOOL_TYPE=placeholder" >> .env && \
-    echo "SCHOOL_API_KEY=placeholder" >> .env
+# Ensure builds without an environment file still have the values required by
+# Next.js, without overwriting the real values supplied by CI or local builds.
+RUN grep -q '^API_BASE_URL=' .env || echo "API_BASE_URL=http://placeholder:3100" >> .env
+RUN grep -q '^CDN_URL=' .env || echo "CDN_URL=http://placeholder:3000" >> .env
+RUN grep -q '^NEXT_AUTH_URL=' .env || echo "NEXT_AUTH_URL=http://placeholder:3000" >> .env
+RUN grep -q '^NEXT_PUBLIC_WEBSITE_URL=' .env || echo "NEXT_PUBLIC_WEBSITE_URL=http://placeholder:3000" >> .env
+RUN grep -q '^NEXT_PUBLIC_WS_URL=' .env || echo "NEXT_PUBLIC_WS_URL=ws://placeholder:3100" >> .env
+RUN grep -q '^NEXT_AUTH_SECRET=' .env || echo "NEXT_AUTH_SECRET=placeholder_secret_for_building_purposes_only" >> .env
+RUN grep -q '^CDN_KEY=' .env || echo "CDN_KEY=placeholder" >> .env
+RUN grep -q '^SCHOOL_ID=' .env || echo "SCHOOL_ID=placeholder" >> .env
+RUN grep -q '^SCHOOL_TYPE=' .env || echo "SCHOOL_TYPE=placeholder" >> .env
+RUN grep -q '^SCHOOL_API_KEY=' .env || echo "SCHOOL_API_KEY=placeholder" >> .env
 
 # Build
 RUN pnpm build:prod
