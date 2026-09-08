@@ -6,11 +6,13 @@ import { WSNotificationResponse } from "@/lib/api/others/notification/response";
 
 interface NotificationProviderProps {
   token?: string;
+  wsUrl?: string;
   children?: React.ReactNode;
 }
 
 export default function NotificationProvider({
   token,
+  wsUrl,
   children,
 }: NotificationProviderProps) {
   // Zustand hooks
@@ -19,10 +21,10 @@ export default function NotificationProvider({
   );
 
   useEffect(() => {
-    if (!token) return;
+    if (!token || !wsUrl) return;
 
     const socket = new WebSocket(
-      `${process.env.NEXT_PUBLIC_WS_URL}/notifications?token=${token}`
+      `${wsUrl}/notifications?token=${token}`
     );
 
     socket.onopen = () => {};
@@ -43,7 +45,7 @@ export default function NotificationProvider({
     return () => {
       socket.close();
     };
-  }, [token, addNotification]);
+  }, [token, wsUrl, addNotification]);
 
   return <>{children}</>;
 }

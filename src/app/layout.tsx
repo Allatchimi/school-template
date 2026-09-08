@@ -156,6 +156,7 @@ export default async function RootLayout({
                   <WebPushProvider />
                   <NotificationProvider
                     token={sessionResp?.accessToken ?? undefined}
+                    wsUrl={process.env.NEXT_PUBLIC_WS_URL ?? ""}
                   >
                     <SchoolConfigProvider
                       schoolID={envSchoolID}

@@ -20,12 +20,14 @@ RUN pnpm install --frozen-lockfile --ignore-scripts
 
 COPY . .
 
-# --- AJOUT : Génère un fichier .env avec des placeholders pour que Next.js ne plante pas au build ---
-RUN echo "API_BASE_URL=http://localhost:3100" >> .env && \
-    echo "CDN_URL=http://localhost:3000" >> .env && \
-    echo "NEXT_AUTH_URL=http://localhost:3000" >> .env && \
-    echo "NEXT_PUBLIC_WEBSITE_URL=http://localhost:3000" >> .env && \
-    echo "NEXT_PUBLIC_WS_URL=ws://localhost:3100" >> .env && \
+# --- Génère un fichier .env avec des placeholders pour que Next.js ne plante pas au build ---
+# Les variables NEXT_PUBLIC_* ne sont plus compilées dans le bundle client :
+# elles sont lues au runtime côté serveur (Server Components) ou passées via props.
+RUN echo "API_BASE_URL=http://placeholder:3100" >> .env && \
+    echo "CDN_URL=http://placeholder:3000" >> .env && \
+    echo "NEXT_AUTH_URL=http://placeholder:3000" >> .env && \
+    echo "NEXT_PUBLIC_WEBSITE_URL=http://placeholder:3000" >> .env && \
+    echo "NEXT_PUBLIC_WS_URL=ws://placeholder:3100" >> .env && \
     echo "NEXT_AUTH_SECRET=placeholder_secret_for_building_purposes_only" >> .env && \
     echo "CDN_KEY=placeholder" >> .env && \
     echo "SCHOOL_ID=placeholder" >> .env && \

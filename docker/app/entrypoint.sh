@@ -11,6 +11,12 @@ if [ ! -f ".env" ]; then
     exit 1
 fi
 
+# Export the mounted Kubernetes configuration so Next.js rewrites use
+# the runtime API and CDN endpoints.
+set -a
+. ./.env
+set +a
+
 # Start the server
 echo "🚀 Starting Next.js"
 pnpm start:prod
