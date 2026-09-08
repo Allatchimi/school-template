@@ -11,10 +11,15 @@ if [ ! -f ".env" ]; then
     exit 1
 fi
 
+# Kubernetes secrets can preserve CRLF line endings from the source .env.
+# Normalize into a writable temporary file before exporting the variables.
+runtime_env="/tmp/admin.env"
+tr -d '\r' < ./.env > "$runtime_env"
+
 # Export the mounted Kubernetes configuration so Next.js rewrites use
 # the runtime API and CDN endpoints.
 set -a
-. ./.env
+. "$runtime_env"
 set +a
 
 # Start the server
